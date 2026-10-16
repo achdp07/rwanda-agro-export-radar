@@ -1,0 +1,889 @@
+district_name,crop_name,production_tonnes,processing_line,pci_weight,export_tier,yield_score,norm_pci,apfi_score
+Bugesera,Coffee,1688.6632977547963,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.005787668384484607,0.7142857142857143,0.403
+Bugesera,Cassava,61691.50979929096,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.21146973183687479,0.5142857142857143,0.336
+Bugesera,Banana for beer,47933.88126336611,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.16431034539996525,0.34285714285714286,0.252
+Bugesera,Maize,25168.4327481896,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.08627330717544071,0.42857142857142855,0.243
+Bugesera,Dessert banana,29346.135794325208,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.10059393749751233,0.34285714285714286,0.22
+Bugesera,Cooking banana,27687.59364559331,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0949086676917673,0.34285714285714286,0.217
+Bugesera,Paddy rice,23749.697753945315,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.08141006554404896,0.34285714285714286,0.211
+Bugesera,Bush bean,16741.224743711788,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.05738591878363966,0.34285714285714286,0.199
+Bugesera,Sweet potato,16470.381580460587,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.05645750315109041,0.34285714285714286,0.198
+Bugesera,Tomato,13131.778989905792,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0450132015902432,0.34285714285714286,0.193
+Bugesera,Sorghum,6152.656869726851,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.021089665917183524,0.34285714285714286,0.181
+Bugesera,Eggplant,6107.114159254412,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.020933551345769876,0.34285714285714286,0.18
+Bugesera,Napia grass,3575.5836738296234,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.012255789467898449,0.34285714285714286,0.176
+Bugesera,PENICUM,2681.687755372217,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.009191628886528667,0.34285714285714286,0.175
+Bugesera,Groundnut,2648.8004589445504,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.009078895451616713,0.34285714285714286,0.175
+Bugesera,Sugar cane,1721.405495715656,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0058999044404587815,0.34285714285714286,0.173
+Bugesera,Irish potato,1712.003817508154,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005867676693170412,0.34285714285714286,0.173
+Bugesera,Taro,1684.9148003702992,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0057748190161322314,0.34285714285714286,0.173
+Bugesera,Orange,1575.8567079048348,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005400981860024912,0.34285714285714286,0.173
+Bugesera,Onion,1456.5777479013814,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004992108880651554,0.34285714285714286,0.172
+Bugesera,PATINATI,1449.1584101304677,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004966676342178021,0.34285714285714286,0.172
+Bugesera,Napia grass for fodder,1366.5607531427472,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004683542165783037,0.34285714285714286,0.172
+Bugesera,Sweet pepper,581.6601499800461,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0019930035484293273,0.34285714285714286,0.171
+Bugesera,Cabbage,580.4879382156562,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0019889853568174224,0.34285714285714286,0.171
+Bugesera,Soybean,424.097221123868,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0014528980331032972,0.34285714285714286,0.171
+Bugesera,Amaranth,401.3094995180352,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0013747846455801518,0.34285714285714286,0.171
+Bugesera,Lemon,283.8451427475057,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0009721318933969416,0.34285714285714286,0.17
+Bugesera,Pumpkin,265.93145863852646,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0009107260813997589,0.34285714285714286,0.17
+Bugesera,Climbing bean,240.96010062759012,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008251274682945245,0.34285714285714286,0.17
+Bugesera,GOMBO,223.47397961435144,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007651872877617717,0.34285714285714286,0.17
+Bugesera,French beans,206.6268676323868,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007074375482460762,0.34285714285714286,0.17
+Bugesera,Sun flower,206.47988205755945,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007069337005439935,0.34285714285714286,0.17
+Bugesera,Pepper,137.87067831926322,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00047175014810441166,0.34285714285714286,0.17
+Bugesera,Mulberry,137.01610626438986,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004688207846847845,0.34285714285714286,0.17
+Bugesera,Cucumber,124.92722134228704,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004273816373677828,0.34285714285714286,0.17
+Bugesera,Yams,117.33674750575592,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00040136246640663293,0.34285714285714286,0.17
+Bugesera,Mango,115.00047398311588,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00039335402035876947,0.34285714285714286,0.17
+Bugesera,Leek,94.17977537605526,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003219833354378316,0.34285714285714286,0.17
+Bugesera,Papaya,64.9515692248657,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00022179279277691628,0.34285714285714286,0.17
+Bugesera,Pea,24.09566904834996,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,8.174400605318162e-05,0.34285714285714286,0.17
+Bugesera,MURINGA,19.16674566385264,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.484828874256714e-05,0.34285714285714286,0.17
+Bugesera,Millet,5.036094244052187,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,1.6410227693636807e-05,0.34285714285714286,0.17
+Burera,Irish potato,52223.8796887,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.17901590988193677,0.34285714285714286,0.26
+Burera,Maize,10710.7804034,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.03671432888801094,0.42857142857142855,0.218
+Burera,Sweet potato,21472.2990878,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.07360343495454022,0.34285714285714286,0.207
+Burera,Garlic,11386.13527,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03902935876782415,0.34285714285714286,0.19
+Burera,Climbing bean,10062.22493965,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.034491163924595294,0.34285714285714286,0.187
+Burera,Sorghum,3568.0569263,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.012229988742545553,0.34285714285714286,0.176
+Burera,Cooking banana,3222.8403559,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.011046630607427554,0.34285714285714286,0.176
+Burera,Wheat,2808.0795479,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.009624883743694405,0.34285714285714286,0.175
+Burera,Cabbage,2024.87227,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0069401496282007775,0.34285714285714286,0.173
+Burera,Napia grass for fodder,1835.7594307,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.006291895065618176,0.34285714285714286,0.173
+Burera,Onion,1378.4239779999998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0047242077793348365,0.34285714285714286,0.172
+Burera,Banana for beer,1187.6704056,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004070328994081834,0.34285714285714286,0.172
+Burera,Bush bean,785.1008103,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002690372044166503,0.34285714285714286,0.171
+Burera,Dessert banana,651.4033916999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0022320744376487524,0.34285714285714286,0.171
+Burera,Pea,597.04004385,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002045723852403071,0.34285714285714286,0.171
+Burera,Carrot,451.474194,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001546742785486816,0.34285714285714286,0.171
+Burera,Pyrethrum,430.5584142,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0014750461744290444,0.34285714285714286,0.171
+Burera,Taro,417.7996995,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001431310936527803,0.34285714285714286,0.171
+Burera,Tomato,377.30849580000006,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012925122825593813,0.34285714285714286,0.171
+Burera,Tree tomato,362.607358,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012421186673544004,0.34285714285714286,0.171
+Burera,Eggplant,294.82021050000003,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0010097530182848256,0.34285714285714286,0.171
+Burera,Sugar cane,95.57028,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003267498069799062,0.34285714285714286,0.17
+Burera,Napia grass,59.906008,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0002044972559063584,0.34285714285714286,0.17
+Burera,Millet,37.2129413,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00012670833326250972,0.34285714285714286,0.17
+Burera,Soybean,14.3791128,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,4.843689721859207e-05,0.34285714285714286,0.17
+Burera,Pumpkin,11.677098000000004,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.9174736972099965e-05,0.34285714285714286,0.17
+Burera,Sun flower,2.13543005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.467122797774176e-06,0.34285714285714286,0.17
+Burera,Amaranth,1.629978,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,4.7344979860899645e-06,0.34285714285714286,0.17
+Gakenke,Coffee,296.52503190000004,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0010155969274293828,0.7142857142857143,0.401
+Gakenke,Sweet potato,50133.6895245,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.17185100603075798,0.34285714285714286,0.256
+Gakenke,Cassava,5127.4607056,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.017575424930704863,0.5142857142857143,0.239
+Gakenke,Banana for beer,30805.0912812,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.10559504982004041,0.34285714285714286,0.223
+Gakenke,Maize,10281.539922125,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.03524294756106541,0.42857142857142855,0.218
+Gakenke,Dessert banana,19501.328191,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.06684719946414473,0.34285714285714286,0.203
+Gakenke,Climbing bean,10476.47663503,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03591116561555221,0.34285714285714286,0.188
+Gakenke,Sugar cane,10243.5655181,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0351127761736457,0.34285714285714286,0.188
+Gakenke,Cooking banana,9623.37634815,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03298684722787684,0.34285714285714286,0.186
+Gakenke,Irish potato,7145.3588236,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.024492520917747892,0.34285714285714286,0.182
+Gakenke,Taro,2495.631063,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.008553850403715113,0.34285714285714286,0.174
+Gakenke,Eggplant,1700.244789,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005827368251341895,0.34285714285714286,0.173
+Gakenke,Napia grass for fodder,1225.516448,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004200060374311259,0.34285714285714286,0.172
+Gakenke,Cabbage,937.861155,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0032140149168557175,0.34285714285714286,0.172
+Gakenke,Tomato,760.67619855,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002606647607132755,0.34285714285714286,0.171
+Gakenke,Tripsacum,418.574311,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0014339662054189193,0.34285714285714286,0.171
+Gakenke,Bush bean,350.53724425,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012007438652082807,0.34285714285714286,0.171
+Gakenke,Wheat,255.960788,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008765479010215368,0.34285714285714286,0.17
+Gakenke,Millet,177.27499775,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006068231021724084,0.34285714285714286,0.17
+Gakenke,Amaranth,160.7062972,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005500277213439088,0.34285714285714286,0.17
+Gakenke,Pumpkin,135.2071056,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00046261976238113554,0.34285714285714286,0.17
+Gakenke,Pea,129.15563914999998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004418761113892272,0.34285714285714286,0.17
+Gakenke,Carrot,125.5722933,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00042959286131920445,0.34285714285714286,0.17
+Gakenke,Soybean,122.868197125,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00042032356638611364,0.34285714285714286,0.17
+Gakenke,ITETE,89.438016,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00030572919234752346,0.34285714285714286,0.17
+Gakenke,Pepper,75.9863165,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.000259618491415516,0.34285714285714286,0.17
+Gakenke,Pineapple,59.60597779999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0002034687908545803,0.34285714285714286,0.17
+Gakenke,Groundnut,58.765276025000006,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00020058697297572922,0.34285714285714286,0.17
+Gakenke,Sweet pepper,42.0948045,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00014344273429534377,0.34285714285714286,0.17
+Gakenke,Napia grass,23.53632,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,7.982662924253638e-05,0.34285714285714286,0.17
+Gakenke,Sorghum,17.30761305,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,5.847542054473827e-05,0.34285714285714286,0.17
+Gakenke,French beans,16.22734,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,5.477238305616982e-05,0.34285714285714286,0.17
+Gakenke,Paddy rice,10.402119,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.4804272454691574e-05,0.34285714285714286,0.17
+Gasabo,Macadamia,127.90589331280388,Gourmet Nut Processing & Vacuum Export Packaging,3.2,High Value Export (+240% Margin),0.0004375921429181822,0.9142857142857144,0.47
+Gasabo,Coffee,2.633740037277148,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),8.175265534293752e-06,0.7142857142857143,0.4
+Gasabo,Cassava,5091.527179909562,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.017452249412507746,0.5142857142857143,0.239
+Gasabo,Maize,2407.9440827064827,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.008253270679647892,0.42857142857142855,0.204
+Gasabo,Dessert banana,10568.895191898217,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.036227964577372464,0.34285714285714286,0.188
+Gasabo,Banana for beer,6334.233507314586,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.021712087346687472,0.34285714285714286,0.181
+Gasabo,Sweet potato,5490.797095501945,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.018820895483513733,0.34285714285714286,0.179
+Gasabo,Cooking banana,5106.257200127552,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.017502742032937915,0.34285714285714286,0.179
+Gasabo,Bush bean,2891.891038623987,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00991217878648357,0.34285714285714286,0.175
+Gasabo,Eggplant,2037.152843776175,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00698224586032867,0.34285714285714286,0.173
+Gasabo,Irish potato,1381.5404906510532,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004734890785062369,0.34285714285714286,0.172
+Gasabo,Sorghum,963.4994314943272,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003301899641000948,0.34285714285714286,0.172
+Gasabo,COURGETTE,665.3161050243111,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002279765434853237,0.34285714285714286,0.171
+Gasabo,Climbing bean,626.074013650243,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0021452485777604838,0.34285714285714286,0.171
+Gasabo,French beans,431.9333661134522,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0014797593332739238,0.34285714285714286,0.171
+Gasabo,Cabbage,427.28059675526737,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0014638102365534039,0.34285714285714286,0.171
+Gasabo,Sweet pepper,321.04142210696915,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0010996359692445788,0.34285714285714286,0.171
+Gasabo,Napia grass for fodder,294.97888417504055,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001010296931295637,0.34285714285714286,0.171
+Gasabo,Taro,294.6906110405186,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001009308767956672,0.34285714285714286,0.171
+Gasabo,Tomato,168.032614378282,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005751413971542248,0.34285714285714286,0.17
+Gasabo,Soybean,137.0359453139384,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00046888879040261287,0.34285714285714286,0.17
+Gasabo,Pea,125.07225626952996,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00042787879850008384,0.34285714285714286,0.17
+Gasabo,Groundnut,83.76443383549432,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00028628088022899205,0.34285714285714286,0.17
+Gasabo,Spinach,59.13920933549432,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00020186876841345208,0.34285714285714286,0.17
+Gasabo,Amaranth,55.33740302106968,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001888366638852583,0.34285714285714286,0.17
+Gasabo,Carrot,22.320357459967585,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,7.565846558202949e-05,0.34285714285714286,0.17
+Gasabo,Sun flower,10.278433441166936,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.438029421960242e-05,0.34285714285714286,0.17
+Gatsibo,Avocado,838.174977,Extra Virgin Avocado Oil Processing Plant,3.0,High Value Export (+220% Margin),0.0028723034817457627,0.8571428571428571,0.451
+Gatsibo,Coffee,2631.7072087333336,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.009020301981814225,0.7142857142857143,0.405
+Gatsibo,Cooking banana,90281.82359936667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.30947366131712656,0.34285714285714286,0.325
+Gatsibo,Maize,42772.283388639,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.1466170497734292,0.42857142857142855,0.273
+Gatsibo,Cassava,17414.53833788,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.059693951443315525,0.5142857142857143,0.26
+Gatsibo,Dessert banana,26501.7609713,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.09084378534736601,0.34285714285714286,0.215
+Gatsibo,Banana for beer,22761.159777966663,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.07802148412574686,0.34285714285714286,0.209
+Gatsibo,Bush bean,16810.490805397665,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.057623353960892576,0.34285714285714286,0.199
+Gatsibo,Sweet potato,13319.3442218,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.04565615115309334,0.34285714285714286,0.193
+Gatsibo,Cabbage,10679.8929033,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.036608450498470016,0.34285714285714286,0.188
+Gatsibo,Tomato,10074.057857986669,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.034531725651280834,0.34285714285714286,0.187
+Gatsibo,Irish potato,8189.1227198666675,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.028070409709002795,0.34285714285714286,0.184
+Gatsibo,Pepper,6993.460463999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.023971832819446398,0.34285714285714286,0.182
+Gatsibo,Sorghum,5941.21802686,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.020364880677307837,0.34285714285714286,0.18
+Gatsibo,Cucumber,3623.984655,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.012421701824739529,0.34285714285714286,0.176
+Gatsibo,Paddy rice,2959.563838,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01014415246484734,0.34285714285714286,0.175
+Gatsibo,Climbing bean,1462.3217553,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005011798601441774,0.34285714285714286,0.173
+Gatsibo,Pumpkin,1146.89149,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003930544100614419,0.34285714285714286,0.172
+Gatsibo,Groundnut,1144.564276156667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003922566709985468,0.34285714285714286,0.172
+Gatsibo,Eggplant,1117.266349,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003828992916191993,0.34285714285714286,0.172
+Gatsibo,French beans,1106.5602,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003792293610303357,0.34285714285714286,0.172
+Gatsibo,Taro,975.95092178,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0033445817530062347,0.34285714285714286,0.172
+Gatsibo,Carrot,519.94965,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0017814678678304142,0.34285714285714286,0.171
+Gatsibo,Napia grass for fodder,323.1059136,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011067127813464115,0.34285714285714286,0.171
+Gatsibo,Soybean,213.23701826866667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007300962969867109,0.34285714285714286,0.17
+Gatsibo,Amaranth,179.121288,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006131519483937673,0.34285714285714286,0.17
+Gatsibo,Sugar cane,174.72668000000002,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005980877957042572,0.34285714285714286,0.17
+Gatsibo,Sun flower,111.43940772,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003811471418556035,0.34285714285714286,0.17
+Gatsibo,Millet,51.157841600000005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.000174509663292218,0.34285714285714286,0.17
+Gatsibo,Pea,29.0526184,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,9.873579278533716e-05,0.34285714285714286,0.17
+Gatsibo,Tobacco,8.428849920000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.8040159086989786e-05,0.34285714285714286,0.17
+Gicumbi,Coffee,414.1214027,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.001418702206777041,0.7142857142857143,0.401
+Gicumbi,Sweet potato,42815.8265191,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.14676631004097612,0.34285714285714286,0.243
+Gicumbi,Cassava,5110.0656917,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.017515797053673336,0.5142857142857143,0.239
+Gicumbi,Irish potato,26286.4224485,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0901056325047478,0.34285714285714286,0.215
+Gicumbi,Maize,5388.583466841,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.018470520271641058,0.42857142857142855,0.209
+Gicumbi,Cooking banana,13298.20918315,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.04558370295081403,0.34285714285714286,0.193
+Gicumbi,Climbing bean,12172.27566486,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.04172414723213379,0.34285714285714286,0.191
+Gicumbi,Dessert banana,10184.992665,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0349119959442012,0.34285714285714286,0.187
+Gicumbi,Napia grass for fodder,8265.8053491,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.028333267928758458,0.34285714285714286,0.184
+Gicumbi,Sorghum,4466.8710969290005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.015311008461676521,0.34285714285714286,0.178
+Gicumbi,Cabbage,4319.518410009,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.014805902346416076,0.34285714285714286,0.177
+Gicumbi,Banana for beer,4041.4244408,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.013852631880837277,0.34285714285714286,0.177
+Gicumbi,Bush bean,1407.26507231,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004823071352244731,0.34285714285714286,0.172
+Gicumbi,Eggplant,1335.4776448,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004576993256269439,0.34285714285714286,0.172
+Gicumbi,Carrot,766.9495041,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0026281516941123336,0.34285714285714286,0.171
+Gicumbi,Sugar cane,763.2316647,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002615407417399444,0.34285714285714286,0.171
+Gicumbi,Onion,750.284128,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0025710249218954457,0.34285714285714286,0.171
+Gicumbi,Wheat,707.5089093,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0024243969573934944,0.34285714285714286,0.171
+Gicumbi,Pea,698.952252308,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0023950658344721204,0.34285714285714286,0.171
+Gicumbi,Taro,591.1214311,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0020254356068585126,0.34285714285714286,0.171
+Gicumbi,Goosebery,540.23984,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0018510200372751455,0.34285714285714286,0.171
+Gicumbi,Napia grass,336.900866,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011540001092032136,0.34285714285714286,0.171
+Gicumbi,Sweet pepper,323.61058,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011084427130506423,0.34285714285714286,0.171
+Gicumbi,Tomato,317.845230408,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001088679833958288,0.34285714285714286,0.171
+Gicumbi,Amaranth,133.6530148,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00045729253840471647,0.34285714285714286,0.17
+Gicumbi,Soybean,108.60017305,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003714146094908895,0.34285714285714286,0.17
+Gicumbi,French beans,85.9688961,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00029383749418654566,0.34285714285714286,0.17
+Gicumbi,IGIKARANKA,70.21771399999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00023984446177166828,0.34285714285714286,0.17
+Gicumbi,Groundnut,60.3902613,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0002061572141214254,0.34285714285714286,0.17
+Gicumbi,Passion fruits,43.4770721,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00014818097037559545,0.34285714285714286,0.17
+Gicumbi,Beet root,39.4801745,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001344801179376222,0.34285714285714286,0.17
+Gicumbi,Tree tomato,38.7063378,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00013182750496155092,0.34285714285714286,0.17
+Gicumbi,UMUKENKE,21.511644,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,7.288629954514661e-05,0.34285714285714286,0.17
+Gicumbi,RADI,15.967679999999998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,5.388230187319326e-05,0.34285714285714286,0.17
+Gicumbi,Letus,10.64512,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.5637248721904405e-05,0.34285714285714286,0.17
+Gicumbi,Pumpkin,5.322559999999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,1.7392195570615548e-05,0.34285714285714286,0.17
+Gicumbi,Sun flower,2.554829,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,7.904768617519699e-06,0.34285714285714286,0.17
+Gisagara,Coffee,219.30005396666667,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0007508796058772019,0.7142857142857143,0.4
+Gisagara,Cassava,17165.689157225,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.05884092836274806,0.5142857142857143,0.259
+Gisagara,Maize,9186.696275921668,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.031489963937145586,0.42857142857142855,0.216
+Gisagara,Banana for beer,12657.107350966668,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.043386088080606164,0.34285714285714286,0.192
+Gisagara,Bush bean,11916.861014689,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.040848618563976404,0.34285714285714286,0.19
+Gisagara,Sweet potato,10842.231912816667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.037164927805848263,0.34285714285714286,0.189
+Gisagara,Dessert banana,7759.3871248,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.02659733119546944,0.34285714285714286,0.183
+Gisagara,Paddy rice,5430.2923345,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01861349292151603,0.34285714285714286,0.179
+Gisagara,Cooking banana,4285.709826983333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.014690010859185672,0.34285714285714286,0.177
+Gisagara,Tomato,2845.4106002,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00975284980389984,0.34285714285714286,0.175
+Gisagara,Climbing bean,2130.1856222163333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007301150294933967,0.34285714285714286,0.174
+Gisagara,Sorghum,1303.4460998333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004467193227630076,0.34285714285714286,0.172
+Gisagara,Cabbage,1207.4421593333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004138104030485154,0.34285714285714286,0.172
+Gisagara,Taro,795.5526400333333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0027261995762211696,0.34285714285714286,0.171
+Gisagara,Eggplant,701.8598341833333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0024050326522923387,0.34285714285714286,0.171
+Gisagara,Soybean,572.7502071883333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001962461407089494,0.34285714285714286,0.171
+Gisagara,Sun flower,301.305739872,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0010319845813120878,0.34285714285714286,0.171
+Gisagara,Onion,256.553103,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008785782808871101,0.34285714285714286,0.17
+Gisagara,Amaranth,204.6557352,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007006807590324035,0.34285714285714286,0.17
+Gisagara,Groundnut,88.3730975,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00030207878828739245,0.34285714285714286,0.17
+Gisagara,Irish potato,72.42132,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.000247398140564298,0.34285714285714286,0.17
+Gisagara,Pea,61.084247100000006,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00020853610845183028,0.34285714285714286,0.17
+Gisagara,French beans,59.65758065,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00020364567880718358,0.34285714285714286,0.17
+Gisagara,Carrot,29.467429499999994,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00010015771204359718,0.34285714285714286,0.17
+Gisagara,Small red bean,20.6491813,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.992988800586775e-05,0.34285714285714286,0.17
+Gisagara,Pepper,19.996392,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.769220999470533e-05,0.34285714285714286,0.17
+Gisagara,Tobacco,11.0283616,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.695095178242134e-05,0.34285714285714286,0.17
+Gisagara,URUYUZI,7.577708,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.5122553729851476e-05,0.34285714285714286,0.17
+Huye,Avocado,256.8657546,Extra Virgin Avocado Oil Processing Plant,3.0,High Value Export (+220% Margin),0.000879650010479606,0.8571428571428571,0.45
+Huye,Coffee,2407.8363015,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.008252901219493193,0.7142857142857143,0.404
+Huye,Cassava,4812.385695758333,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.016495388200033143,0.5142857142857143,0.238
+Huye,Maize,6202.654764361,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.021261052288601145,0.42857142857142855,0.211
+Huye,Sweet potato,17868.49267375,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.061250048694676935,0.34285714285714286,0.201
+Huye,Dessert banana,6338.732122523334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.021727508022751394,0.34285714285714286,0.181
+Huye,Climbing bean,5683.276359791334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.019480689719272633,0.34285714285714286,0.18
+Huye,Banana for beer,5189.192714433333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.017787034340894695,0.34285714285714286,0.179
+Huye,Bush bean,4598.579899249,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.015762489346592988,0.34285714285714286,0.178
+Huye,Paddy rice,4589.087772066667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.015729951551817455,0.34285714285714286,0.178
+Huye,Napia grass for fodder,3168.9465305,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.010861889484932124,0.34285714285714286,0.175
+Huye,Cooking banana,2912.168286533333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.009981686592101144,0.34285714285714286,0.175
+Huye,Eggplant,2215.8514090333333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007594801626947725,0.34285714285714286,0.174
+Huye,Sorghum,2035.5864215316667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.006976876365741777,0.34285714285714286,0.173
+Huye,Tomato,1852.65194245,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.006349800429716941,0.34285714285714286,0.173
+Huye,Cabbage,1665.1620434,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005707109098196576,0.34285714285714286,0.173
+Huye,Soybean,698.070344791,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0023920427685936363,0.34285714285714286,0.171
+Huye,Carrot,551.232593,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0018887017849236435,0.34285714285714286,0.171
+Huye,Amaranth,521.2018596166666,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0017857602818215459,0.34285714285714286,0.171
+Huye,Taro,425.3127243,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0014570646221232593,0.34285714285714286,0.171
+Huye,Onion,385.2326588,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001319675297182885,0.34285714285714286,0.171
+Huye,Sweet pepper,379.69132,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001300680298359894,0.34285714285714286,0.171
+Huye,Pumpkin,233.76745373333333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008004719970768834,0.34285714285714286,0.17
+Huye,Irish potato,233.3600878,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007990755988952395,0.34285714285714286,0.17
+Huye,Pea,216.40401444,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.000740952353748101,0.34285714285714286,0.17
+Huye,French beans,83.36739685,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00028491988835602656,0.34285714285714286,0.17
+Huye,Sun flower,48.475250251666665,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001653140841473085,0.34285714285714286,0.17
+Huye,Desmodium,44.316528,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00015105851755470908,0.34285714285714286,0.17
+Huye,Maize for fodder,18.0987384,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.118729679603126e-05,0.34285714285714286,0.17
+Huye,Mucuna,16.618698000000002,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,5.6113908095095095e-05,0.34285714285714286,0.17
+Huye,Groundnut,11.14456242,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.734927329258249e-05,0.34285714285714286,0.17
+Huye,Ibibiringanya,2.0094172,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.035166907000678e-06,0.34285714285714286,0.17
+Huye,Other pulse(specify),1.6618697999999998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,4.8438189869035344e-06,0.34285714285714286,0.17
+Huye,Small red bean,0.6361553916666667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,1.327801525741149e-06,0.34285714285714286,0.17
+Kamonyi,Cassava,291726.44745030004,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.9999999999965721,0.5142857142857143,0.73
+Kamonyi,Coffee,737.5635744,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.002527420495351486,0.7142857142857143,0.401
+Kamonyi,Banana for beer,70393.5223236,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.24129911488360417,0.34285714285714286,0.291
+Kamonyi,Tomato,35576.064893805,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.12194933556700707,0.34285714285714286,0.231
+Kamonyi,Maize,8061.111935323001,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.027631605154815077,0.42857142857142855,0.214
+Kamonyi,Sweet potato,19332.3909374,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.06626810422216253,0.34285714285714286,0.203
+Kamonyi,Dessert banana,12486.2763057,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.042800501163637525,0.34285714285714286,0.191
+Kamonyi,Bush bean,8299.555843087,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.028448960294213257,0.34285714285714286,0.184
+Kamonyi,Cooking banana,7482.69280905,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0256488585624661,0.34285714285714286,0.183
+Kamonyi,Eggplant,5486.6743511,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01880676324437643,0.34285714285714286,0.179
+Kamonyi,Sugar cane,3690.5099,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.012649741833856854,0.34285714285714286,0.176
+Kamonyi,Taro,3401.45440155,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.011658896651671488,0.34285714285714286,0.176
+Kamonyi,Paddy rice,3193.5757772,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.010946315384333485,0.34285714285714286,0.175
+Kamonyi,Climbing bean,2228.142888825,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007636935243498211,0.34285714285714286,0.174
+Kamonyi,Sorghum,1509.44093416,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005173317104332448,0.34285714285714286,0.173
+Kamonyi,Soybean,1026.296232811,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0035171590232819594,0.34285714285714286,0.172
+Kamonyi,Pumpkin,967.409577,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0033153031183840633,0.34285714285714286,0.172
+Kamonyi,Irish potato,824.3245872,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0028248261215906736,0.34285714285714286,0.171
+Kamonyi,Groundnut,646.633189765,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0022157227971136614,0.34285714285714286,0.171
+Kamonyi,Napia grass for fodder,324.78978,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011124848594380949,0.34285714285714286,0.171
+Kamonyi,Cabbage,311.02898,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0010653146016290226,0.34285714285714286,0.171
+Kamonyi,Pineapple,249.649992,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008549153015868773,0.34285714285714286,0.17
+Kamonyi,Napia grass,165.812662,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005675316850729922,0.34285714285714286,0.17
+Kamonyi,Pea,116.673913148,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00039909035522559276,0.34285714285714286,0.17
+Kamonyi,Yams,78.01562249999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0002665746921591862,0.34285714285714286,0.17
+Kamonyi,Carrot,63.165532500000005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00021567048791321756,0.34285714285714286,0.17
+Kamonyi,Pepper,43.1251137,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00014697450211313478,0.34285714285714286,0.17
+Kamonyi,Black eggplant,41.608332,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00014177516894725177,0.34285714285714286,0.17
+Kamonyi,French beans,31.4035475,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00010679447627305953,0.34285714285714286,0.17
+Kamonyi,Amaranth,19.507372,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.601591214328734e-05,0.34285714285714286,0.17
+Kamonyi,Tree tomato,18.252722,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.171513283102697e-05,0.34285714285714286,0.17
+Kamonyi,Papaya,15.605058,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,5.263928015735978e-05,0.34285714285714286,0.17
+Kamonyi,Mango,11.14647,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.7355812232207474e-05,0.34285714285714286,0.17
+Kamonyi,Sun flower,9.5347125,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.183091420297183e-05,0.34285714285714286,0.17
+Kamonyi,Mandoline,7.245205499999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.3982777797699194e-05,0.34285714285714286,0.17
+Kamonyi,Sweet pepper,6.197285000000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.0390640701860886e-05,0.34285714285714286,0.17
+Karongi,Coffee,372.8298688580952,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.001277160123711036,0.7142857142857143,0.401
+Karongi,Cassava,4283.788735652381,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.014683425604450788,0.5142857142857143,0.237
+Karongi,Banana for beer,37914.98417297858,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.1299668509289938,0.34285714285714286,0.235
+Karongi,Maize,4719.382963919048,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.016176586761322668,0.42857142857142855,0.208
+Karongi,Sweet potato,21405.738495504764,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.07337527377942753,0.34285714285714286,0.207
+Karongi,Dessert banana,13185.168197004765,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.045196212945911515,0.34285714285714286,0.193
+Karongi,Climbing bean,6926.208043002381,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.023741300144257314,0.34285714285714286,0.182
+Karongi,Taro,4889.366938166667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.016759270027460603,0.34285714285714286,0.178
+Karongi,Cooking banana,3004.8682674428574,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.010299450239447108,0.34285714285714286,0.175
+Karongi,Eggplant,2211.080360583333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0075784470846677636,0.34285714285714286,0.174
+Karongi,Sorghum,1915.295718561905,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.006564535261218915,0.34285714285714286,0.173
+Karongi,Napia grass for fodder,1636.977486,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005610496049624357,0.34285714285714286,0.173
+Karongi,Onion,1627.0253256966666,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005576381320301538,0.34285714285714286,0.173
+Karongi,Sugar cane,671.9382723333333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002302465375207097,0.34285714285714286,0.171
+Karongi,Irish potato,670.3978413333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0022971849752734387,0.34285714285714286,0.171
+Karongi,Cabbage,665.2162467333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0022794231334369104,0.34285714285714286,0.171
+Karongi,Bush bean,605.296995204762,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0020740276228321955,0.34285714285714286,0.171
+Karongi,Pea,470.7117625714286,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0016126867036553815,0.34285714285714286,0.171
+Karongi,Soybean,360.6163056833333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001235293595331806,0.34285714285714286,0.171
+Karongi,Amaranth,297.854458,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0010201540296236671,0.34285714285714286,0.171
+Karongi,Carrot,289.8586325,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0009927453651396724,0.34285714285714286,0.17
+Karongi,Sweet pepper,279.5476404,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0009574006064320168,0.34285714285714286,0.17
+Karongi,Tree tomato,196.99600433333336,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006744241838529971,0.34285714285714286,0.17
+Karongi,Passion fruits,176.20212210000005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006031454220224482,0.34285714285714286,0.17
+Karongi,Napia grass,70.841337,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00024198216144651768,0.34285714285714286,0.17
+Karongi,Groundnut,53.96467425000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00018413112568738552,0.34285714285714286,0.17
+Karongi,Lemongrass,51.15135000000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001744874109198564,0.34285714285714286,0.17
+Karongi,Beet root,24.061974766666665,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,8.162850637629563e-05,0.34285714285714286,0.17
+Karongi,Tomato,20.819416,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,7.051343072773349e-05,0.34285714285714286,0.17
+Karongi,Paddy rice,19.827575,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.711352696664342e-05,0.34285714285714286,0.17
+Kayonza,Coffee,799.8027122999999,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0027407682789510873,0.7142857142857143,0.401
+Kayonza,Cassava,68707.19488196667,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.23551860065678906,0.5142857142857143,0.348
+Kayonza,Cooking banana,88955.10986797143,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.3049258567746036,0.34285714285714286,0.322
+Kayonza,Maize,35703.56875752024,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.122386402461599,0.42857142857142855,0.261
+Kayonza,Bush bean,14812.458973528572,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.05077435705518956,0.34285714285714286,0.195
+Kayonza,Banana for beer,13363.61243780238,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.04580789692089608,0.34285714285714286,0.193
+Kayonza,Dessert banana,11887.357662854762,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0407474848571968,0.34285714285714286,0.19
+Kayonza,Sweet potato,10141.13249314762,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.034761648899419864,0.34285714285714286,0.187
+Kayonza,Irish potato,9014.10354475,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03089833818680117,0.34285714285714286,0.185
+Kayonza,Sorghum,8030.934716348809,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.02752816151789183,0.34285714285714286,0.184
+Kayonza,Paddy rice,5480.039756833334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.018784020706005315,0.34285714285714286,0.179
+Kayonza,Napia grass for fodder,4656.579165,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01596130339215804,0.34285714285714286,0.178
+Kayonza,Tomato,2804.8603034,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.009613848586362314,0.34285714285714286,0.175
+Kayonza,Carrot,1428.5007568,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004895864555557432,0.34285714285714286,0.172
+Kayonza,Eggplant,1365.8835921999998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00468122094490579,0.34285714285714286,0.172
+Kayonza,Taro,728.1373029857142,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0024951084457039254,0.34285714285714286,0.171
+Kayonza,Cabbage,695.8194135,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00238432686477213,0.34285714285714286,0.171
+Kayonza,Climbing bean,348.0399049,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011921833061582078,0.34285714285714286,0.171
+Kayonza,Groundnut,340.97274346666666,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011679579830092145,0.34285714285714286,0.171
+Kayonza,Amaranth,339.83229600000004,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011640486753366687,0.34285714285714286,0.171
+Kayonza,Yams,246.37985,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008437056741515337,0.34285714285714286,0.17
+Kayonza,Sun flower,146.45849426666666,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.000501188079929297,0.34285714285714286,0.17
+Kayonza,Millet,124.9085859,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004273177574613046,0.34285714285714286,0.17
+Kayonza,Passion fruits,118.35723,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00040486054953720225,0.34285714285714286,0.17
+Kayonza,Soybean,98.615955375,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00033718999160881535,0.34285714285714286,0.17
+Kayonza,Pea,82.1140185,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00028062346809689846,0.34285714285714286,0.17
+Kayonza,Pumpkin,34.37421225000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001169775340983185,0.34285714285714286,0.17
+Kayonza,Tobacco,25.2501195,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,8.570131416260347e-05,0.34285714285714286,0.17
+Kayonza,Leek,8.730808,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.9075232664189688e-05,0.34285714285714286,0.17
+Kicukiro,Cassava,534.3449538308944,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.0018308131234073585,0.5142857142857143,0.231
+Kicukiro,Maize,1865.1419105626017,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.006392614438778806,0.42857142857142855,0.203
+Kicukiro,Cabbage,2414.0815615609763,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00827430917013276,0.34285714285714286,0.174
+Kicukiro,Tomato,2368.9057662569107,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.008119452336865608,0.34285714285714286,0.174
+Kicukiro,Sweet potato,899.9865470731709,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0030841856176633694,0.34285714285714286,0.172
+Kicukiro,Banana for beer,864.3629565788618,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002962072517574612,0.34285714285714286,0.171
+Kicukiro,Taro,799.5649643902439,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0027399533096036104,0.34285714285714286,0.171
+Kicukiro,Bush bean,775.2402210406506,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002656571208640016,0.34285714285714286,0.171
+Kicukiro,Cooking banana,341.7866891284553,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011707480843629982,0.34285714285714286,0.171
+Kicukiro,Paddy rice,241.4081561560976,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008266633451906699,0.34285714285714286,0.17
+Kicukiro,Sorghum,222.5426003674797,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007619946391372034,0.34285714285714286,0.17
+Kicukiro,Pineapple,114.64070614634146,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00039212078234847483,0.34285714285714286,0.17
+Kicukiro,Climbing bean,57.32035307317073,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00019563396238390078,0.34285714285714286,0.17
+Kicukiro,Dessert banana,46.58753890731708,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00015884325172607717,0.34285714285714286,0.17
+Kicukiro,Soybean,19.106784357723576,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.464274907418473e-05,0.34285714285714286,0.17
+Kirehe,Coffee,1215.8329314,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.004166866521154435,0.7142857142857143,0.402
+Kirehe,Cooking banana,81597.37406511429,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.2797044819481536,0.34285714285714286,0.31
+Kirehe,Maize,43553.902069071424,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.14929633838051487,0.42857142857142855,0.275
+Kirehe,Cassava,17114.43144927143,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.05866522351282131,0.5142857142857143,0.259
+Kirehe,Banana for beer,27675.044240128573,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.09486564993908414,0.34285714285714286,0.217
+Kirehe,Bush bean,20500.05410599286,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.07027070383095586,0.34285714285714286,0.205
+Kirehe,Dessert banana,17618.555758121427,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.06039329699810376,0.34285714285714286,0.2
+Kirehe,Sweet potato,13330.637284,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.04569486232216984,0.34285714285714286,0.193
+Kirehe,Irish potato,8405.007496342858,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.028810435039175155,0.34285714285714286,0.184
+Kirehe,Sorghum,7701.711371228572,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.02639962610817097,0.34285714285714286,0.183
+Kirehe,Climbing bean,6642.179470585714,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.02276768661989558,0.34285714285714286,0.181
+Kirehe,Sweet pepper,6093.123475,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.020885593074215468,0.34285714285714286,0.18
+Kirehe,Tomato,4391.604425128571,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.015053003962428143,0.34285714285714286,0.178
+Kirehe,Paddy rice,3992.8938322,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.013686275177789984,0.34285714285714286,0.177
+Kirehe,Soybean,3678.3140682928574,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01260793608667486,0.34285714285714286,0.176
+Kirehe,Napia grass for fodder,1655.817,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005675075487765862,0.34285714285714286,0.173
+Kirehe,Taro,1081.0317790357144,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003704785456827987,0.34285714285714286,0.172
+Kirehe,Pumpkin,880.2920303999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0030166753399979325,0.34285714285714286,0.172
+Kirehe,Eggplant,708.5115964,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002427834040194555,0.34285714285714286,0.171
+Kirehe,Passion fruits,583.948378,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0020008473006550096,0.34285714285714286,0.171
+Kirehe,Groundnut,530.9527513071429,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001819185088148802,0.34285714285714286,0.171
+Kirehe,Amaranth,450.2573635,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0015425716465708415,0.34285714285714286,0.171
+Kirehe,Pepper,186.150688,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.000637247830191562,0.34285714285714286,0.17
+Kirehe,Pineapple,153.48118,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00052526094608195,0.34285714285714286,0.17
+Kirehe,Tobacco,88.146075,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.000301300584269206,0.34285714285714286,0.17
+Kirehe,Tree tomato,77.207618,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00026380495634616,0.34285714285714286,0.17
+Kirehe,Onion,54.87015,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00018723498044636487,0.34285714285714286,0.17
+Kirehe,Pea,37.8029072,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001287306607145155,0.34285714285714286,0.17
+Kirehe,Sun flower,31.294155000000003,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00010641949281080598,0.34285714285714286,0.17
+Kirehe,French beans,8.779224000000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.92411965036528e-05,0.34285714285714286,0.17
+Kirehe,Wheat,7.31602,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.4225520822931782e-05,0.34285714285714286,0.17
+Muhanga,Avocado,207.645096,Extra Virgin Avocado Oil Processing Plant,3.0,High Value Export (+220% Margin),0.0007109279045196087,0.8571428571428571,0.45
+Muhanga,Coffee,524.2707806,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0017962801494149638,0.7142857142857143,0.401
+Muhanga,Banana for beer,66375.286049,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.2275251162054279,0.34285714285714286,0.284
+Muhanga,Cassava,17616.732821725,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.060387048205897714,0.5142857142857143,0.26
+Muhanga,Sweet potato,47745.9038303,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.16366598286435569,0.34285714285714286,0.252
+Muhanga,Dessert banana,23536.43273647,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.08067902041179162,0.34285714285714286,0.21
+Muhanga,Maize,3817.104881515,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.013083693196815207,0.42857142857142855,0.207
+Muhanga,Cooking banana,15590.254249,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.05344053952035624,0.34285714285714286,0.197
+Muhanga,Taro,15031.0548941,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.05152367583966181,0.34285714285714286,0.196
+Muhanga,Napia grass for fodder,12977.2875222,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.04448362464987751,0.34285714285714286,0.192
+Muhanga,Climbing bean,6763.68551926,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.023184193773645927,0.34285714285714286,0.182
+Muhanga,Cabbage,3846.6870756,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01318509716472023,0.34285714285714286,0.177
+Muhanga,Bush bean,2073.564288571,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007107059623930547,0.34285714285714286,0.174
+Muhanga,Soybean,1431.191129895,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004905086809532036,0.34285714285714286,0.172
+Muhanga,Eggplant,1310.031363364,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004489766666564021,0.34285714285714286,0.172
+Muhanga,Tomato,1029.7209734199998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0035288985949242855,0.34285714285714286,0.172
+Muhanga,Amaranth,735.1006424,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0025189778802850496,0.34285714285714286,0.171
+Muhanga,Carrot,727.52524955,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002493010405011846,0.34285714285714286,0.171
+Muhanga,Paddy rice,571.1430779,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0019569523739763617,0.34285714285714286,0.171
+Muhanga,Sugar cane,366.9522476,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012570123917442584,0.34285714285714286,0.171
+Muhanga,Pumpkin,146.9901312,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005030104631632775,0.34285714285714286,0.17
+Muhanga,Irish potato,130.809236,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00044754442934507064,0.34285714285714286,0.17
+Muhanga,Passion fruits,92.5526112,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00031640562529872536,0.34285714285714286,0.17
+Muhanga,Yams,72.376773,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0002472454391607008,0.34285714285714286,0.17
+Muhanga,Pea,69.0687073,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00023590581414483332,0.34285714285714286,0.17
+Muhanga,Millet,61.72248390000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00021072390235910582,0.34285714285714286,0.17
+Muhanga,French beans,34.4742389,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00011732041262778464,0.34285714285714286,0.17
+Muhanga,Sorghum,28.433212,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,9.661254707457984e-05,0.34285714285714286,0.17
+Muhanga,Mango,19.080196,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.455160759341755e-05,0.34285714285714286,0.17
+Muhanga,Jatropha,10.797936,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.616108237382517e-05,0.34285714285714286,0.17
+Muhanga,Groundnut,6.0463613,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,1.9873293611684507e-05,0.34285714285714286,0.17
+Muhanga,Sweet pepper,2.4520128,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,7.55232786836637e-06,0.34285714285714286,0.17
+Muhanga,Leek,1.6578844,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,4.830157546763987e-06,0.34285714285714286,0.17
+Musanze,Irish potato,39164.75397289107,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.1342509015411577,0.34285714285714286,0.237
+Musanze,Cassava,1192.221172561275,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.004085928439665836,0.5142857142857143,0.232
+Musanze,Maize,8457.580965298986,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.02899065014909448,0.42857142857142855,0.214
+Musanze,Sweet potato,22558.870640356254,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0773280629021946,0.34285714285714286,0.209
+Musanze,Dessert banana,8540.951739636506,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.02927643447262529,0.34285714285714286,0.185
+Musanze,Cabbage,8337.870676138291,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0285802986286808,0.34285714285714286,0.184
+Musanze,Climbing bean,7855.575752749658,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.026927053477508733,0.34285714285714286,0.183
+Musanze,Banana for beer,6141.48589202115,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0210513732380982,0.34285714285714286,0.181
+Musanze,Onion,3679.639609888943,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01261247987328785,0.34285714285714286,0.176
+Musanze,Cooking banana,3578.357261059875,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.012265296969257884,0.34285714285714286,0.176
+Musanze,Carrot,3326.920478497345,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.011403403921167789,0.34285714285714286,0.176
+Musanze,Wheat,1826.3769652777405,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.006259733177293901,0.34285714285714286,0.173
+Musanze,Tomato,1666.225268676968,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005710753698105281,0.34285714285714286,0.173
+Musanze,Sugar cane,1273.083662901497,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004363114687299106,0.34285714285714286,0.172
+Musanze,Eggplant,961.4712818184454,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003294947403988076,0.34285714285714286,0.172
+Musanze,Sorghum,696.7062816709802,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0023873669351363383,0.34285714285714286,0.171
+Musanze,Taro,503.1144625857074,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0017237590042035733,0.34285714285714286,0.171
+Musanze,Bush bean,458.18944098976345,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0015697617910503544,0.34285714285714286,0.171
+Musanze,Napia grass,450.70812630130376,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0015441168036509705,0.34285714285714286,0.171
+Musanze,Garlic,331.8890628527282,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011368202906937425,0.34285714285714286,0.171
+Musanze,Pyrethrum,328.4632274885563,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011250769663710704,0.34285714285714286,0.171
+Musanze,Amaranth,298.93973049068086,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0010238742045537955,0.34285714285714286,0.171
+Musanze,Tree tomato,230.91122843785607,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007906812230267951,0.34285714285714286,0.17
+Musanze,Pea,215.74584930564944,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007386962480661452,0.34285714285714286,0.17
+Musanze,Napia grass for fodder,177.41860240415258,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006073153605119642,0.34285714285714286,0.17
+Musanze,Pumpkin,102.27573646354418,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00034973525187503504,0.34285714285714286,0.17
+Musanze,Soybean,12.416369461129891,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,4.170886474173445e-05,0.34285714285714286,0.17
+Musanze,Papaya,8.043397270400773,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.6718876831976585e-05,0.34285714285714286,0.17
+Ngoma,Coffee,761.9212871166667,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0026109156110776417,0.7142857142857143,0.401
+Ngoma,Cassava,32863.2910193,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.11265029459278197,0.5142857142857143,0.286
+Ngoma,Cooking banana,53962.87643206667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.18497696772114255,0.34285714285714286,0.262
+Ngoma,Maize,36235.55115952533,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.12420996991788566,0.42857142857142855,0.262
+Ngoma,Banana for beer,36696.27149985,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.12578926016489153,0.34285714285714286,0.233
+Ngoma,Bush bean,15298.477366097,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.05244036578123774,0.34285714285714286,0.196
+Ngoma,Sweet potato,12255.960719516666,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.04201100886829747,0.34285714285714286,0.191
+Ngoma,Dessert banana,11494.116642333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03939950506538975,0.34285714285714286,0.19
+Ngoma,Pineapple,7996.20062735,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.027409097514866053,0.34285714285714286,0.184
+Ngoma,Paddy rice,6123.1493124,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.020988517794514525,0.34285714285714286,0.18
+Ngoma,Sorghum,5078.145861414334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01740637996863492,0.34285714285714286,0.179
+Ngoma,Taro,3383.631647816667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01159780253734173,0.34285714285714286,0.176
+Ngoma,Tomato,3076.48457395,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.010544941754567994,0.34285714285714286,0.175
+Ngoma,Napia grass for fodder,2333.7959745,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007999100472962612,0.34285714285714286,0.174
+Ngoma,Irish potato,2234.953081083333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007660279709267273,0.34285714285714286,0.174
+Ngoma,Climbing bean,1646.7253846566666,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00564391059621552,0.34285714285714286,0.173
+Ngoma,Cabbage,1229.85742475,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004214940685953074,0.34285714285714286,0.172
+Ngoma,Tripsacum,720.6672262999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002469501980736868,0.34285714285714286,0.171
+Ngoma,Sugar cane,716.7840458333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002456190936049654,0.34285714285714286,0.171
+Ngoma,Soybean,634.54640025,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0021742908325835075,0.34285714285714286,0.171
+Ngoma,Pepper,615.1902364000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0021079403850078476,0.34285714285714286,0.171
+Ngoma,Chia seeds,499.66915185833335,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0017119489208332317,0.34285714285714286,0.171
+Ngoma,Pumpkin,415.3534284,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001422925432890087,0.34285714285714286,0.171
+Ngoma,Eggplant,410.90338125,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0014076712419035145,0.34285714285714286,0.171
+Ngoma,Groundnut,395.3882694316667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0013544874281421514,0.34285714285714286,0.171
+Ngoma,Sun flower,359.5138629783333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012315145631087824,0.34285714285714286,0.171
+Ngoma,Onion,281.8108025,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0009651584358983795,0.34285714285714286,0.17
+Ngoma,Pea,85.94400900000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0002937521843990973,0.34285714285714286,0.17
+Ngoma,Millet,58.000232700000005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00019796450256155562,0.34285714285714286,0.17
+Ngoma,Tree tomato,39.005153,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00013285180514913228,0.34285714285714286,0.17
+Ngoma,Amaranth,25.4345224,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,8.633342365723608e-05,0.34285714285714286,0.17
+Ngoma,Small red bean,1.2137299499999998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.3076530474945628e-06,0.34285714285714286,0.17
+Ngoma,French beans,0.2488009,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0,0.34285714285714286,0.17
+Ngororero,Coffee,46.7542176,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.000159414604910858,0.7142857142857143,0.4
+Ngororero,Banana for beer,65783.14631583571,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.22549533713209238,0.34285714285714286,0.283
+Ngororero,Cassava,6534.291807942857,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.022397861547132244,0.5142857142857143,0.241
+Ngororero,Sweet potato,36542.9398327,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.12526365887210622,0.34285714285714286,0.233
+Ngororero,Maize,4413.685387578572,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.015128694670195059,0.42857142857142855,0.208
+Ngororero,Dessert banana,18850.08040824286,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.06461480557641719,0.34285714285714286,0.202
+Ngororero,Taro,7382.811518171428,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.025306478305428346,0.34285714285714286,0.183
+Ngororero,Climbing bean,7026.758713164286,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.024085974947641715,0.34285714285714286,0.182
+Ngororero,Cooking banana,4783.384801321429,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0163959768527799,0.34285714285714286,0.178
+Ngororero,Paddy rice,2602.7955,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.008921196351716254,0.34285714285714286,0.174
+Ngororero,Irish potato,2514.4365987714286,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.008618313368846213,0.34285714285714286,0.174
+Ngororero,Sugar cane,1545.8218876,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005298026347479987,0.34285714285714286,0.173
+Ngororero,Tomato,1463.6538054,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005016364698371574,0.34285714285714286,0.173
+Ngororero,Napia grass,902.30244,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003092124201642262,0.34285714285714286,0.172
+Ngororero,Eggplant,827.388657,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0028353293599497073,0.34285714285714286,0.171
+Ngororero,Soybean,530.928248696,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0018191010963398513,0.34285714285714286,0.171
+Ngororero,Tree tomato,509.6522,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0017461695297050122,0.34285714285714286,0.171
+Ngororero,Cabbage,369.8995169285714,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012671152530649291,0.34285714285714286,0.171
+Ngororero,Napia grass for fodder,356.926662,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012226459699200244,0.34285714285714286,0.171
+Ngororero,Onion,334.3977342857143,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011454196946711426,0.34285714285714286,0.171
+Ngororero,Bush bean,242.400559024,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008300651749628793,0.34285714285714286,0.17
+Ngororero,Wheat,220.2985495,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007543023205252267,0.34285714285714286,0.17
+Ngororero,Pea,188.41359204285715,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006450047750711303,0.34285714285714286,0.17
+Ngororero,Black eggplant,117.636,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00040238826558280737,0.34285714285714286,0.17
+Ngororero,Sorghum,110.7488376,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003787799560382352,0.34285714285714286,0.17
+Ngororero,Carrot,72.8100136,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00024873053238168774,0.34285714285714286,0.17
+Ngororero,Pineapple,62.005244,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00021169316772268342,0.34285714285714286,0.17
+Ngororero,Pepper,8.3147024,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.7648876025927465e-05,0.34285714285714286,0.17
+Ngororero,Amaranth,2.0407224,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.142477118235821e-06,0.34285714285714286,0.17
+Nyabihu,Irish potato,101947.03237,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.34946050111622434,0.34285714285714286,0.345
+Nyabihu,Cassava,534.887564,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.0018326731214864335,0.5142857142857143,0.231
+Nyabihu,Maize,3339.5084004,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.011446553703261033,0.42857142857142855,0.206
+Nyabihu,Carrot,11321.200488,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03880677066192072,0.34285714285714286,0.189
+Nyabihu,Banana for beer,8845.143059,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.030319163307987902,0.34285714285714286,0.185
+Nyabihu,Sweet potato,7744.716017,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.026547040519253617,0.34285714285714286,0.183
+Nyabihu,Climbing bean,5544.0119472,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.019003309171225845,0.34285714285714286,0.18
+Nyabihu,Dessert banana,3375.4502159,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.011569757637862298,0.34285714285714286,0.176
+Nyabihu,Cabbage,1886.05508,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.006464302101848314,0.34285714285714286,0.173
+Nyabihu,Wheat,862.5904104,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002955996456572679,0.34285714285714286,0.171
+Nyabihu,Cooking banana,477.595254,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0016362824295806367,0.34285714285714286,0.171
+Nyabihu,Sugar cane,415.73016,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001424216820505402,0.34285714285714286,0.171
+Nyabihu,Bush bean,299.438218,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0010255829558131109,0.34285714285714286,0.171
+Nyabihu,Tree tomato,250.741982,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008586585032775442,0.34285714285714286,0.17
+Nyabihu,Taro,150.418784,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005147634452946795,0.34285714285714286,0.17
+Nyabihu,Pea,102.226884,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003495677918945116,0.34285714285714286,0.17
+Nyabihu,Eggplant,64.669136,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0002208246478993828,0.34285714285714286,0.17
+Nyabihu,Sorghum,62.405209,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00021306419645390586,0.34285714285714286,0.17
+Nyabihu,Maize for fodder,48.0219,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001637600576191325,0.34285714285714286,0.17
+Nyabihu,Pyrethrum,34.032792,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001158071892627175,0.34285714285714286,0.17
+Nyabihu,Onion,27.070175,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,9.194023102512745e-05,0.34285714285714286,0.17
+Nyabihu,Soybean,0.9238448,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.3139639261846405e-06,0.34285714285714286,0.17
+Nyagatare,Maize,260849.0648490052,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.8941562919438106,0.42857142857142855,0.647
+Nyagatare,Paddy rice,144610.48860362355,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.4957053582150917,0.34285714285714286,0.418
+Nyagatare,Coffee,89.35683291570605,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0003054509071449276,0.7142857142857143,0.4
+Nyagatare,Cooking banana,95346.1771006394,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.32683361570141467,0.34285714285714286,0.333
+Nyagatare,Banana for beer,51884.25548728823,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.17785172167058327,0.34285714285714286,0.259
+Nyagatare,Sweet potato,45017.86398310894,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.15431461209336678,0.34285714285714286,0.247
+Nyagatare,Dessert banana,44528.11873130815,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.152635828171777,0.34285714285714286,0.246
+Nyagatare,Cassava,9618.999485200073,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.032971843902943485,0.5142857142857143,0.246
+Nyagatare,Bush bean,34344.70397871927,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.11772838825139977,0.34285714285714286,0.229
+Nyagatare,Maize for fodder,13761.868163002522,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.04717306647729032,0.34285714285714286,0.194
+Nyagatare,Sorghum,13590.751834333088,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.04658650164539979,0.34285714285714286,0.193
+Nyagatare,Soybean,2085.658048308772,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007148515481490549,0.34285714285714286,0.174
+Nyagatare,Groundnut,2016.16986242049,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.006910318890955478,0.34285714285714286,0.173
+Nyagatare,Sugar cane,1547.9481503710376,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005305314903601701,0.34285714285714286,0.173
+Nyagatare,Climbing bean,1419.8102530446506,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0048660746230948905,0.34285714285714286,0.172
+Nyagatare,Tomato,944.0796548067364,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003235331136775302,0.34285714285714286,0.172
+Nyagatare,Taro,660.4845939445246,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0022632036344316835,0.34285714285714286,0.171
+Nyagatare,Irish potato,490.9792237761528,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0016821609617044928,0.34285714285714286,0.171
+Nyagatare,Millet,423.29964475893377,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0014501640436000438,0.34285714285714286,0.171
+Nyagatare,Amaranth,355.89635145659224,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012191141974972036,0.34285714285714286,0.171
+Nyagatare,Cloris Gayana,171.3136304394813,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005863882994769443,0.34285714285714286,0.17
+Nyagatare,Napia grass for fodder,85.65681521974065,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00029276772094813543,0.34285714285714286,0.17
+Nyagatare,Eggplant,64.11429820244958,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00021892273507798644,0.34285714285714286,0.17
+Nyagatare,Pineapple,20.516575424783863,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.947533207009781e-05,0.34285714285714286,0.17
+Nyagatare,Onion,20.424418952161385,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.915943149946406e-05,0.34285714285714286,0.17
+Nyamagabe,Coffee,282.42959461299995,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0009672795759120725,0.7142857142857143,0.4
+Nyamagabe,Irish potato,40843.773417200005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.1400063648902724,0.34285714285714286,0.24
+Nyamagabe,Cassava,3118.845616248,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.010690149975475039,0.5142857142857143,0.235
+Nyamagabe,Sweet potato,24955.5192906,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.08554346714538996,0.34285714285714286,0.213
+Nyamagabe,Maize,4687.616121897,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.016067694100433762,0.42857142857142855,0.208
+Nyamagabe,Banana for beer,6495.115214925,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.02226356921000552,0.34285714285714286,0.181
+Nyamagabe,Climbing bean,5672.004275757,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01944205046065794,0.34285714285714286,0.18
+Nyamagabe,Dessert banana,4409.8198412,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01511544407290056,0.34285714285714286,0.178
+Nyamagabe,Sorghum,1738.428042732,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00595825554877574,0.34285714285714286,0.173
+Nyamagabe,Taro,1662.9768883,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005699618666723129,0.34285714285714286,0.173
+Nyamagabe,Cooking banana,1558.1080907,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005340141876208086,0.34285714285714286,0.173
+Nyamagabe,Wheat,1394.07936035,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004777872422491419,0.34285714285714286,0.172
+Nyamagabe,Cabbage,1120.4346206,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0038398533449593,0.34285714285714286,0.172
+Nyamagabe,Bush bean,787.313467404,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002697956748982993,0.34285714285714286,0.171
+Nyamagabe,Pea,675.199902215,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0023136458241923294,0.34285714285714286,0.171
+Nyamagabe,Eggplant,344.6101976,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011804267093360275,0.34285714285714286,0.171
+Nyamagabe,Napia grass for fodder,343.418039,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011763401425294972,0.34285714285714286,0.171
+Nyamagabe,Soybean,338.60637365,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001159846370724771,0.34285714285714286,0.171
+Nyamagabe,Garlic,190.8192992,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006532512307143748,0.34285714285714286,0.17
+Nyamagabe,Napia grass,171.13641,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005857808105359402,0.34285714285714286,0.17
+Nyamagabe,Tomato,168.5264129,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005768340751653271,0.34285714285714286,0.17
+Nyamagabe,Tripsacum,167.48625,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005732685301275073,0.34285714285714286,0.17
+Nyamagabe,Setaria,84.41247999999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00028850229937990715,0.34285714285714286,0.17
+Nyamagabe,Carrot,59.508009900000005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00020313296945611417,0.34285714285714286,0.17
+Nyamagabe,Onion,52.730587225,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00017990083361656977,0.34285714285714286,0.17
+Nyamagabe,Pumpkin,51.31308799999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00017504182804368082,0.34285714285714286,0.17
+Nyamagabe,SARAZI,46.179894,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00015744589725739057,0.34285714285714286,0.17
+Nyamagabe,Maize for fodder,44.68896,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00015233516669257521,0.34285714285714286,0.17
+Nyamagabe,Amaranth,42.6663271,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00014540184047999224,0.34285714285714286,0.17
+Nyamagabe,Yams,39.796877,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001355657334958585,0.34285714285714286,0.17
+Nyamagabe,French beans,14.688324,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,4.9496833561061445e-05,0.34285714285714286,0.17
+Nyamagabe,Small red bean,8.819437,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.9379041511012568e-05,0.34285714285714286,0.17
+Nyamagabe,Sweet pepper,8.597481,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.8618204805132783e-05,0.34285714285714286,0.17
+Nyamagabe,Pepper,7.8944352,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.620825395652039e-05,0.34285714285714286,0.17
+Nyamagabe,Groundnut,3.9244692,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,1.2599719589822857e-05,0.34285714285714286,0.17
+Nyamagabe,SARAZA,3.8483245,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,1.2338705322498685e-05,0.34285714285714286,0.17
+Nyamagabe,Pineapple,3.12641,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,9.864074989879397e-06,0.34285714285714286,0.17
+Nyamasheke,Coffee,8198.0196361,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.028100907196970934,0.7142857142857143,0.414
+Nyamasheke,Cassava,43014.09526275,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.14744594986957993,0.5142857142857143,0.304
+Nyamasheke,Banana for beer,42396.70846987857,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.14532962711307873,0.34285714285714286,0.243
+Nyamasheke,Sweet potato,39679.63696952857,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.13601585442855513,0.34285714285714286,0.238
+Nyamasheke,Maize,9749.741664557145,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.033420011328296154,0.42857142857142855,0.217
+Nyamasheke,Dessert banana,17588.364459828572,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.06028980509908157,0.34285714285714286,0.2
+Nyamasheke,Cooking banana,14126.761148828571,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0484238728413198,0.34285714285714286,0.194
+Nyamasheke,Climbing bean,7606.59191025,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0260735687934059,0.34285714285714286,0.183
+Nyamasheke,Sugar cane,6838.954517499999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.023442206247630826,0.34285714285714286,0.182
+Nyamasheke,Taro,6746.1813662,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.023124191781569187,0.34285714285714286,0.182
+Nyamasheke,Napia grass,2579.0068630000005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.008839651954572455,0.34285714285714286,0.174
+Nyamasheke,Tomato,2139.4896191,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007333043203170215,0.34285714285714286,0.174
+Nyamasheke,Soybean,1829.2759575285716,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0062696705509828,0.34285714285714286,0.173
+Nyamasheke,Bush bean,1568.8062626328572,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00537681383773348,0.34285714285714286,0.173
+Nyamasheke,Napia grass for fodder,1158.8531185,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003971547029234946,0.34285714285714286,0.172
+Nyamasheke,Cabbage,731.4525134999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002506472562226962,0.34285714285714286,0.171
+Nyamasheke,Eggplant,713.1890769,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0024438678435404295,0.34285714285714286,0.171
+Nyamasheke,Amaranth,711.2322956,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0024371602481682874,0.34285714285714286,0.171
+Nyamasheke,Groundnut,678.7986584,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0023259818989146163,0.34285714285714286,0.171
+Nyamasheke,Pineapple,214.4265866,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007341739846844103,0.34285714285714286,0.17
+Nyamasheke,Pumpkin,142.334404,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004870512273403086,0.34285714285714286,0.17
+Nyamasheke,Pepper,91.76046,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00031369023256518037,0.34285714285714286,0.17
+Nyamasheke,Carrot,73.88870849999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00025242816017442734,0.34285714285714286,0.17
+Nyamasheke,Pea,56.0711305,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00019135178759483506,0.34285714285714286,0.17
+Nyamasheke,Yams,41.9626711,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00014298979794402774,0.34285714285714286,0.17
+Nyamasheke,Onion,35.314096,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00012019933506905111,0.34285714285714286,0.17
+Nyamasheke,Sorghum,18.5227678,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.264081520459953e-05,0.34285714285714286,0.17
+Nyamasheke,Millet,18.3997188,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.221901901156216e-05,0.34285714285714286,0.17
+Nyanza,Coffee,534.325461518,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0018307463062583174,0.7142857142857143,0.401
+Nyanza,Cassava,30417.98380174,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.10426809502046856,0.5142857142857143,0.282
+Nyanza,Maize,12657.115831963,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.043386117152374046,0.42857142857142855,0.222
+Nyanza,Banana for beer,25916.0062768,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.08883589336779801,0.34285714285714286,0.214
+Nyanza,Sweet potato,21564.8552238,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.07392070551998203,0.34285714285714286,0.207
+Nyanza,Bush bean,11301.176061852,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0387381294968809,0.34285714285714286,0.189
+Nyanza,Paddy rice,10019.0668083,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03434322338463125,0.34285714285714286,0.187
+Nyanza,Dessert banana,9104.9296998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.031209678599387305,0.34285714285714286,0.186
+Nyanza,Cooking banana,5524.85591882,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.018937644762377342,0.34285714285714286,0.179
+Nyanza,Tomato,3611.877986,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.012380201715884004,0.34285714285714286,0.176
+Nyanza,Taro,2682.4462959,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.009194229066187855,0.34285714285714286,0.175
+Nyanza,Napia grass for fodder,2368.017843,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.008116408649802126,0.34285714285714286,0.174
+Nyanza,Sorghum,2321.679840556,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007957567919492776,0.34285714285714286,0.174
+Nyanza,Cabbage,1486.8046968,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005095722985378713,0.34285714285714286,0.173
+Nyanza,Soybean,1435.876033631,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004921146058779014,0.34285714285714286,0.172
+Nyanza,Eggplant,1215.6927667999998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004166386054879384,0.34285714285714286,0.172
+Nyanza,Climbing bean,1084.974257982,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003718299769099303,0.34285714285714286,0.172
+Nyanza,Onion,1071.09464225,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0036707222261970524,0.34285714285714286,0.172
+Nyanza,Groundnut,427.469061806,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0014644562705798457,0.34285714285714286,0.171
+Nyanza,Sugar cane,283.21188,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0009699611499037781,0.34285714285714286,0.17
+Nyanza,Irish potato,231.4098546,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007923904495702139,0.34285714285714286,0.17
+Nyanza,Sun flower,185.668939852,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006355964593163074,0.34285714285714286,0.17
+Nyanza,Pea,130.5193299792,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004465506686813346,0.34285714285714286,0.17
+Nyanza,Pumpkin,118.8224165,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00040645514920686535,0.34285714285714286,0.17
+Nyanza,Sweet pepper,74.029536,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0002529108987856714,0.34285714285714286,0.17
+Nyanza,Yams,44.371093,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00015124555937766647,0.34285714285714286,0.17
+Nyanza,Carrot,29.052902400000004,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,9.873676630091894e-05,0.34285714285714286,0.17
+Nyanza,IMYUNGU,23.53218,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,7.981243785342168e-05,0.34285714285714286,0.17
+Nyanza,Amaranth,23.0314112,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,7.80958666221895e-05,0.34285714285714286,0.17
+Nyanza,Pepper,6.8801544,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.2731429438556895e-05,0.34285714285714286,0.17
+Nyanza,Small red bean,1.4616302200000002,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,4.157423384018503e-06,0.34285714285714286,0.17
+Nyanza,French beans,1.25452395,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.4474896483508577e-06,0.34285714285714286,0.17
+Nyarugenge,Cassava,1875.131868657239,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.006426858734083285,0.5142857142857143,0.233
+Nyarugenge,Maize,737.6448409198654,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.0025276990665605214,0.42857142857142855,0.201
+Nyarugenge,Banana for beer,6234.519098082827,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.021370279138535227,0.34285714285714286,0.181
+Nyarugenge,Amaranth,1842.6301299443096,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.006315446941576164,0.34285714285714286,0.173
+Nyarugenge,Dessert banana,1817.2079181407407,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0062283028594841945,0.34285714285714286,0.173
+Nyarugenge,Bush bean,1798.055345459879,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0061626502963292,0.34285714285714286,0.173
+Nyarugenge,Cooking banana,1667.4112770552188,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005714819182740317,0.34285714285714286,0.173
+Nyarugenge,Sweet potato,821.5475132141414,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0028153066680801355,0.34285714285714286,0.171
+Nyarugenge,Tomato,242.4876129292929,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008303635845870257,0.34285714285714286,0.17
+Nyarugenge,Climbing bean,235.87191972929296,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008076858366486991,0.34285714285714286,0.17
+Nyarugenge,Sweet pepper,121.95091772727274,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00041717925023634434,0.34285714285714286,0.17
+Nyarugenge,Taro,99.20433828282827,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003392068927666486,0.34285714285714286,0.17
+Nyarugenge,Soybean,61.107710216161614,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00020861653700528264,0.34285714285714286,0.17
+Nyarugenge,Eggplant,55.772150973737375,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001903269241178975,0.34285714285714286,0.17
+Nyarugenge,Irish potato,37.94028551515152,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00012920157596239888,0.34285714285714286,0.17
+Nyarugenge,Groundnut,19.13450316767677,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.473776560023356e-05,0.34285714285714286,0.17
+Nyaruguru,Macadamia,29.8477873,Gourmet Nut Processing & Vacuum Export Packaging,3.2,High Value Export (+240% Margin),0.00010146152980751293,0.9142857142857144,0.47
+Nyaruguru,Avocado,212.7085952,Extra Virgin Avocado Oil Processing Plant,3.0,High Value Export (+220% Margin),0.0007282849304686837,0.8571428571428571,0.45
+Nyaruguru,Coffee,1020.4235316,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0034970281566057116,0.7142857142857143,0.402
+Nyaruguru,Sweet potato,72083.93984004667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.24709364936239617,0.34285714285714286,0.294
+Nyaruguru,Cassava,4908.983520553334,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.016826513156385663,0.5142857142857143,0.238
+Nyaruguru,Maize,4663.974178506667,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.01598665255017291,0.42857142857142855,0.208
+Nyaruguru,Napia grass for fodder,11073.4013605,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.037957347028916955,0.34285714285714286,0.189
+Nyaruguru,Climbing bean,9199.684776936669,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03153448685306843,0.34285714285714286,0.186
+Nyaruguru,Irish potato,8935.63651574,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.030629363273430313,0.34285714285714286,0.185
+Nyaruguru,Banana for beer,6166.730911013334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.021137909925954736,0.34285714285714286,0.181
+Nyaruguru,Taro,3379.7997277333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0115846672066753,0.34285714285714286,0.176
+Nyaruguru,Dessert banana,3359.946920406667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01151661432894779,0.34285714285714286,0.176
+Nyaruguru,Cooking banana,2867.7740161066667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.009829508725896307,0.34285714285714286,0.175
+Nyaruguru,Sorghum,2186.5980459566667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007494524849572227,0.34285714285714286,0.174
+Nyaruguru,Cabbage,1389.4242893333335,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004761915435980773,0.34285714285714286,0.172
+Nyaruguru,Bush bean,1232.51388689,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004224046697522448,0.34285714285714286,0.172
+Nyaruguru,Amaranth,838.2013377,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0028723938428450464,0.34285714285714286,0.171
+Nyaruguru,Napia grass,481.1694708,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0016485343864379063,0.34285714285714286,0.171
+Nyaruguru,Eggplant,392.39002744,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001344209839068776,0.34285714285714286,0.171
+Nyaruguru,Carrot,278.7660215,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0009547213170722818,0.34285714285714286,0.17
+Nyaruguru,Tomato,238.64720800000003,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008171991689566861,0.34285714285714286,0.17
+Nyaruguru,Wheat,230.67292153333327,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007898643375169393,0.34285714285714286,0.17
+Nyaruguru,Passion fruits,213.3069605,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007303360499868079,0.34285714285714286,0.17
+Nyaruguru,Soybean,98.53541792333333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003369139195520743,0.34285714285714286,0.17
+Nyaruguru,Pea,90.72177426,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003101297510424196,0.34285714285714286,0.17
+Nyaruguru,Sugar cane,61.33176,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0002093845509336679,0.34285714285714286,0.17
+Nyaruguru,Onion,10.9284755,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.6608555040332006e-05,0.34285714285714286,0.17
+Nyaruguru,Sun flower,6.873934,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.271010670501847e-05,0.34285714285714286,0.17
+Nyaruguru,Tree tomato,3.5233893333333333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,1.1224869238629978e-05,0.34285714285714286,0.17
+Rubavu,Coffee,3.528286,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),1.1241654384048249e-05,0.7142857142857143,0.4
+Rubavu,Cassava,213.372054,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.0007305591821576624,0.5142857142857143,0.23
+Rubavu,Irish potato,23945.4277559,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.08208100289167211,0.34285714285714286,0.211
+Rubavu,Maize,3950.36849295,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.013540503767999802,0.42857142857142855,0.207
+Rubavu,Sweet potato,7280.040333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.024954191861334966,0.34285714285714286,0.182
+Rubavu,Cabbage,6832.127685,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.023418804741247166,0.34285714285714286,0.182
+Rubavu,Sugar cane,6231.817536099999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.021361018530487934,0.34285714285714286,0.181
+Rubavu,Climbing bean,3348.249136786,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.011476515826739954,0.34285714285714286,0.176
+Rubavu,Cooking banana,2163.3478446,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007414826140768464,0.34285714285714286,0.174
+Rubavu,Carrot,2142.0165420000003,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0073417051708360975,0.34285714285714286,0.174
+Rubavu,Onion,1318.139135,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004517559068047016,0.34285714285714286,0.172
+Rubavu,Bush bean,1279.5309302500002,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004385215093016281,0.34285714285714286,0.172
+Rubavu,Dessert banana,944.7899888,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003237766070615834,0.34285714285714286,0.172
+Rubavu,Banana for beer,667.8762124,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0022885411546464287,0.34285714285714286,0.171
+Rubavu,Eggplant,602.1554305999999,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0020632587422198412,0.34285714285714286,0.171
+Rubavu,Garlic,406.5917275000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0013928914457455187,0.34285714285714286,0.171
+Rubavu,Beet root,325.85431000000005,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011161339317700446,0.34285714285714286,0.171
+Rubavu,Napia grass for fodder,187.57965600000003,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006421461492544737,0.34285714285714286,0.17
+Rubavu,Leek,156.31638,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005349796481152826,0.34285714285714286,0.17
+Rubavu,Maize for fodder,156.31638,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005349796481152826,0.34285714285714286,0.17
+Rubavu,Cauliflower,152.86424,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005231461548741184,0.34285714285714286,0.17
+Rubavu,Taro,143.760113,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004919383749691321,0.34285714285714286,0.17
+Rubavu,Sweet pepper,117.771274,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00040285196750819435,0.34285714285714286,0.17
+Rubavu,Tree tomato,102.190175,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003494419581498228,0.34285714285714286,0.17
+Rubavu,Tomato,84.678864,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00028941542957264396,0.34285714285714286,0.17
+Rubavu,Tobacco,45.859272,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001563468461557642,0.34285714285714286,0.17
+Rubavu,Pea,42.0908662,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00014342923430796443,0.34285714285714286,0.17
+Rubavu,Soybean,27.8734594,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,9.469378694062698e-05,0.34285714285714286,0.17
+Rubavu,ISOGO,1.0421092,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.719359123966401e-06,0.34285714285714286,0.17
+Rubavu,Celery,0.5210546,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,9.332507716465481e-07,0.34285714285714286,0.17
+Ruhango,Coffee,1034.7572094087936,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0035461621660813937,0.7142857142857143,0.402
+Ruhango,Cassava,25725.112183331847,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.08818153289434284,0.5142857142857143,0.274
+Ruhango,Banana for beer,26154.3674247396,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.08965296481713071,0.34285714285714286,0.215
+Ruhango,Maize,8893.681622731581,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.030485547280206145,0.42857142857142855,0.215
+Ruhango,Sweet potato,24793.63625660428,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.08498855286362633,0.34285714285714286,0.212
+Ruhango,Dessert banana,8838.648787717766,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.030296901778813362,0.34285714285714286,0.185
+Ruhango,Bush bean,8223.282517132056,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.02818750511360965,0.34285714285714286,0.184
+Ruhango,Napia grass for fodder,6384.639196330956,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.021884871584954585,0.34285714285714286,0.181
+Ruhango,Tomato,6048.724819130125,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.02073340017527367,0.34285714285714286,0.18
+Ruhango,Taro,4812.782924140968,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.016496749847990964,0.34285714285714286,0.178
+Ruhango,Cooking banana,3176.553665384878,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.010887965767830509,0.34285714285714286,0.175
+Ruhango,Paddy rice,3080.7094198163995,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.010559423984432655,0.34285714285714286,0.175
+Ruhango,Climbing bean,2709.9155423413545,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.009288390120520424,0.34285714285714286,0.175
+Ruhango,Sorghum,1678.2630866890968,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005752017794603363,0.34285714285714286,0.173
+Ruhango,Soybean,1596.9792792782234,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005473387326078723,0.34285714285714286,0.173
+Ruhango,Cabbage,1380.6056358909686,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004731686222824182,0.34285714285714286,0.172
+Ruhango,Eggplant,983.031176024064,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00336885195663148,0.34285714285714286,0.172
+Ruhango,Napia grass,729.4547468805704,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002499624474435493,0.34285714285714286,0.171
+Ruhango,Carrot,607.8710762269757,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002082851242493789,0.34285714285714286,0.171
+Ruhango,Groundnut,352.3338446440879,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012069023809754603,0.34285714285714286,0.171
+Ruhango,Onion,223.19825973707665,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007642421553789062,0.34285714285714286,0.17
+Ruhango,Sweet pepper,203.8907039759358,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.000698058330098686,0.34285714285714286,0.17
+Ruhango,Sugar cane,195.62295555555556,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006697175487131644,0.34285714285714286,0.17
+Ruhango,Irish potato,169.6284673550208,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005806117765172084,0.34285714285714286,0.17
+Ruhango,Sun flower,165.70583942394535,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005671655109804739,0.34285714285714286,0.17
+Ruhango,Pineapple,154.82124327985738,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005298545111647463,0.34285714285714286,0.17
+Ruhango,Amaranth,152.62309225935826,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005223195313423364,0.34285714285714286,0.17
+Ruhango,Pea,61.08645403379382,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00020854367353787337,0.34285714285714286,0.17
+Ruhango,Yams,40.15633697860962,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00013679791620784177,0.34285714285714286,0.17
+Ruhango,Pepper,1.716909690285205,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,5.032488672861921e-06,0.34285714285714286,0.17
+Rulindo,Coffee,1892.0895108333332,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.00648498735693082,0.7142857142857143,0.403
+Rulindo,Cassava,16496.429702435715,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.05654679277298804,0.5142857142857143,0.258
+Rulindo,Banana for beer,30284.87420587619,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.1038118123949121,0.34285714285714286,0.222
+Rulindo,Sweet potato,29107.768945528573,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.09977684650637275,0.34285714285714286,0.22
+Rulindo,Maize,6406.227364135714,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.021958873055870225,0.42857142857142855,0.211
+Rulindo,Dessert banana,14439.181346767857,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.049494809217225086,0.34285714285714286,0.195
+Rulindo,Cooking banana,9512.402086483333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03260644168946424,0.34285714285714286,0.186
+Rulindo,Irish potato,7387.141862752381,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.025321322171358063,0.34285714285714286,0.183
+Rulindo,Bush bean,5844.870694992857,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.020034614378590516,0.34285714285714286,0.18
+Rulindo,Climbing bean,4901.961276980953,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.016802441805904057,0.34285714285714286,0.178
+Rulindo,Sorghum,4342.751429666667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01488554215855893,0.34285714285714286,0.177
+Rulindo,Eggplant,3413.91471825,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.011701609019493249,0.34285714285714286,0.176
+Rulindo,Cabbage,3074.2342472,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.010537227923035512,0.34285714285714286,0.175
+Rulindo,Tomato,1701.8884684,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005833002573550884,0.34285714285714286,0.173
+Rulindo,Napia grass,1613.47746,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005529940973979053,0.34285714285714286,0.173
+Rulindo,Sugar cane,1586.6894988,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005438115278090483,0.34285714285714286,0.173
+Rulindo,Taro,1222.7831339333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.004190690924192238,0.34285714285714286,0.172
+Rulindo,Amaranth,974.266872,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003338809046311427,0.34285714285714286,0.172
+Rulindo,Sweet pepper,346.1386308,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011856659823498018,0.34285714285714286,0.171
+Rulindo,Carrot,339.6045343,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0011632679374356722,0.34285714285714286,0.171
+Rulindo,Soybean,319.8900951,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0010956893679029938,0.34285714285714286,0.171
+Rulindo,Beet root,192.542208,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006591571411467275,0.34285714285714286,0.17
+Rulindo,Pea,173.81745076428572,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005949710744775706,0.34285714285714286,0.17
+Rulindo,Pepper,161.25409919999998,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005519055163535248,0.34285714285714286,0.17
+Rulindo,Onion,150.7957395,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005160556004104829,0.34285714285714286,0.17
+Rulindo,Groundnut,122.1606016,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004178980196636269,0.34285714285714286,0.17
+Rulindo,Wheat,44.86020798333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00015292218281977112,0.34285714285714286,0.17
+Rulindo,French beans,14.7283353,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,4.9633987166685836e-05,0.34285714285714286,0.17
+Rulindo,Small red bean,4.0769876,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,1.3122533107105807e-05,0.34285714285714286,0.17
+Rusizi,Coffee,1854.8743612,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.006357418596204153,0.7142857142857143,0.403
+Rusizi,Cassava,71896.23749663333,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.24645022979884068,0.5142857142857143,0.353
+Rusizi,Maize,10226.538798236666,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.035054410761344364,0.42857142857142855,0.218
+Rusizi,Banana for beer,19274.80419923333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.06607070426825684,0.34285714285714286,0.203
+Rusizi,Sweet potato,10413.2462672,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03569442002286112,0.34285714285714286,0.188
+Rusizi,Dessert banana,6950.55773524,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.023824767766809786,0.34285714285714286,0.182
+Rusizi,Bush bean,6851.16171776,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.023484050964754193,0.34285714285714286,0.182
+Rusizi,Cooking banana,5061.33281064,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.017348746986571205,0.34285714285714286,0.179
+Rusizi,Paddy rice,5025.5577188,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.017226114559296915,0.34285714285714286,0.179
+Rusizi,Climbing bean,2441.9581213066667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.008369866442241521,0.34285714285714286,0.174
+Rusizi,Sugar cane,1473.810135,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005051179293862091,0.34285714285714286,0.173
+Rusizi,Taro,1162.6685941666667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003984625990549761,0.34285714285714286,0.172
+Rusizi,Napia grass for fodder,1037.96308,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0035571514793691188,0.34285714285714286,0.172
+Rusizi,Tomato,886.1309583333333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003036690436209194,0.34285714285714286,0.172
+Rusizi,Mango,820.7062,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002812422754266314,0.34285714285714286,0.171
+Rusizi,Amaranth,721.46426163,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002472234115641746,0.34285714285714286,0.171
+Rusizi,Carrot,710.6120576,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0024350341518393683,0.34285714285714286,0.171
+Rusizi,Orange,385.342097,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0013200504372988784,0.34285714285714286,0.171
+Rusizi,Eggplant,339.2155733,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001161934629005372,0.34285714285714286,0.171
+Rusizi,Cabbage,259.2149874,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008877028792684502,0.34285714285714286,0.17
+Rusizi,Pepper,155.5271532,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005322742798499324,0.34285714285714286,0.17
+Rusizi,Soybean,145.73710357,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004987152451273354,0.34285714285714286,0.17
+Rusizi,IBISUSA,140.41258016,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004804634616583409,0.34285714285714286,0.17
+Rusizi,Napia grass,129.745385,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00044389768453805076,0.34285714285714286,0.17
+Rusizi,Groundnut,103.2948738,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0003532287239772001,0.34285714285714286,0.17
+Rusizi,Irish potato,101.926161,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00034853695201317347,0.34285714285714286,0.17
+Rusizi,Passion fruits,89.064851,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00030445003057965225,0.34285714285714286,0.17
+Rusizi,Sorghum,54.45759696666666,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00018582080155107907,0.34285714285714286,0.17
+Rusizi,Pumpkin,39.0851333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00013312596736140533,0.34285714285714286,0.17
+Rusizi,Pea,20.5034025,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.943017697314456e-05,0.34285714285714286,0.17
+Rusizi,Sun flower,0.8275064,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,1.983728244762519e-06,0.34285714285714286,0.17
+Rutsiro,Coffee,1927.863054742857,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.006607614478097933,0.7142857142857143,0.403
+Rutsiro,Cassava,12057.83649480238,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.04133186443207316,0.5142857142857143,0.251
+Rutsiro,Maize,5082.251763859524,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.017420454475704165,0.42857142857142855,0.209
+Rutsiro,Irish potato,18593.432060342857,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.06373504795064576,0.34285714285714286,0.202
+Rutsiro,Banana for beer,15930.34856980238,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.05460633924069587,0.34285714285714286,0.197
+Rutsiro,Sweet potato,15066.916089204762,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.05164660341788641,0.34285714285714286,0.196
+Rutsiro,Dessert banana,9739.19835807857,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.03338387022568916,0.34285714285714286,0.187
+Rutsiro,Climbing bean,5331.932893835714,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.018276329371861175,0.34285714285714286,0.179
+Rutsiro,Cooking banana,4975.001986888095,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.017052815993224384,0.34285714285714286,0.179
+Rutsiro,Sugar cane,4179.4884368,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01432589755474219,0.34285714285714286,0.177
+Rutsiro,Taro,3570.9059750142856,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.012239754916195592,0.34285714285714286,0.176
+Rutsiro,Eggplant,2133.830958495238,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007313646040245047,0.34285714285714286,0.174
+Rutsiro,Passion fruits,704.372913,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0024136471642158233,0.34285714285714286,0.171
+Rutsiro,Napia grass,518.9146971428571,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0017779201821514082,0.34285714285714286,0.171
+Rutsiro,Soybean,404.9441603059524,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0013872437966770778,0.34285714285714286,0.171
+Rutsiro,Napia grass for fodder,367.421951,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012586224747679052,0.34285714285714286,0.171
+Rutsiro,Sweet pepper,210.22815265714289,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007197822915067657,0.34285714285714286,0.17
+Rutsiro,Pea,185.24706945557145,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0006341503416951262,0.34285714285714286,0.17
+Rutsiro,Pineapple,175.229355,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005998109011446513,0.34285714285714286,0.17
+Rutsiro,Tomato,139.262011,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00047651945811898503,0.34285714285714286,0.17
+Rutsiro,Cabbage,133.3656,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00045630731732642575,0.34285714285714286,0.17
+Rutsiro,Wheat,127.91323497142857,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00043761730918250356,0.34285714285714286,0.17
+Rutsiro,Bush bean,117.22202553333334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0004009692141963299,0.34285714285714286,0.17
+Rutsiro,Pumpkin,39.489594,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0001345124067757299,0.34285714285714286,0.17
+Rutsiro,Sorghum,36.9994184,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00012597640414202687,0.34285714285714286,0.17
+Rutsiro,French beans,25.032765,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,8.495625080865879e-05,0.34285714285714286,0.17
+Rutsiro,Amaranth,20.026212,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,6.779442913079237e-05,0.34285714285714286,0.17
+Rwamagana,Coffee,554.421766,Specialty Coffee Roasting & Vacuum Packaging,2.5,High Value (+180% Margin),0.0018996338610098985,0.7142857142857143,0.401
+Rwamagana,Cooking banana,41555.211273575,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.14244508263199834,0.34285714285714286,0.241
+Rwamagana,Cassava,4471.727076076667,Industrial Starch & High-Quality Flour Factory,1.8,Import Substitution / Regional Trade,0.01532765413549715,0.5142857142857143,0.238
+Rwamagana,Banana for beer,32190.5308778,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.11034415909788176,0.34285714285714286,0.225
+Rwamagana,Maize,13278.596638116667,Fortified Animal Feed & Commercial Milling Hub,1.5,Regional Grain Security,0.04551647366141847,0.42857142857142855,0.223
+Rwamagana,Bush bean,12419.784100196666,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.042572574409678016,0.34285714285714286,0.191
+Rwamagana,Dessert banana,8332.606423133333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.028562253444431623,0.34285714285714286,0.184
+Rwamagana,Sweet potato,7974.344144833333,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.027334176295524832,0.34285714285714286,0.184
+Rwamagana,Tomato,5982.412098033334,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.020506088670843928,0.34285714285714286,0.18
+Rwamagana,Sorghum,4764.390042031667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.01633086525369268,0.34285714285714286,0.178
+Rwamagana,Napia grass for fodder,4343.9407392,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.014889618959130272,0.34285714285714286,0.177
+Rwamagana,Eggplant,2133.7351552,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00731331763883413,0.34285714285714286,0.174
+Rwamagana,Mango,2052.6825,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.007035479530446984,0.34285714285714286,0.174
+Rwamagana,Cabbage,1547.8706785000002,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.005305049339962247,0.34285714285714286,0.173
+Rwamagana,Taro,925.6669635666668,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0031722147923220053,0.34285714285714286,0.172
+Rwamagana,Amaranth,895.067208,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.003067322754142956,0.34285714285714286,0.172
+Rwamagana,Irish potato,666.550908,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.002283998181111206,0.34285714285714286,0.171
+Rwamagana,Carrot,546.072031,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0018710120401428387,0.34285714285714286,0.171
+Rwamagana,Beet root,522.1479125000001,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001789003229790258,0.34285714285714286,0.171
+Rwamagana,Sun flower,420.3792509166667,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.001440153308000096,0.34285714285714286,0.171
+Rwamagana,Climbing bean,371.077629,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0012711536701727475,0.34285714285714286,0.171
+Rwamagana,Sweet pepper,239.715228,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0008208602045611019,0.34285714285714286,0.17
+Rwamagana,Groundnut,231.5131148,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007927444122944317,0.34285714285714286,0.17
+Rwamagana,French beans,219.7852308,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0007525427298461078,0.34285714285714286,0.17
+Rwamagana,Soybean,159.15215517500002,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.0005447003217747585,0.34285714285714286,0.17
+Rwamagana,Tree tomato,50.5875,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,0.00017255460542412606,0.34285714285714286,0.17
+Rwamagana,Small red bean,10.1175,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,3.3828635020286574e-05,0.34285714285714286,0.17
+Rwamagana,Pepper,1.01175,Local Processing & Value-Addition Hub,1.2,Domestic Value Addition,2.6152916794226827e-06,0.34285714285714286,0.17
