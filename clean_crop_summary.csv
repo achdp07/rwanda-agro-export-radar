@@ -1,0 +1,889 @@
+district_name,crop_name,production_tonnes
+Bugesera,Cassava,61691.50979929096
+Bugesera,Banana for beer,47933.88126336611
+Bugesera,Dessert banana,29346.135794325208
+Bugesera,Cooking banana,27687.59364559331
+Bugesera,Maize,25168.432748189596
+Bugesera,Paddy rice,23749.697753945315
+Bugesera,Bush bean,16741.224743711788
+Bugesera,Sweet potato,16470.381580460587
+Bugesera,Tomato,13131.778989905792
+Bugesera,Sorghum,6152.656869726851
+Bugesera,Eggplant,6107.114159254412
+Bugesera,Napia grass,3575.5836738296234
+Bugesera,PENICUM,2681.6877553722175
+Bugesera,Groundnut,2648.8004589445504
+Bugesera,Sugar cane,1721.4054957156561
+Bugesera,Irish potato,1712.003817508154
+Bugesera,Coffee,1688.6632977547965
+Bugesera,Taro,1684.9148003702992
+Bugesera,Orange,1575.8567079048348
+Bugesera,Onion,1456.5777479013814
+Bugesera,PATINATI,1449.1584101304677
+Bugesera,Napia grass for fodder,1366.5607531427472
+Bugesera,Sweet pepper,581.6601499800461
+Bugesera,Cabbage,580.4879382156562
+Bugesera,Soybean,424.097221123868
+Bugesera,Amaranth,401.3094995180352
+Bugesera,Lemon,283.8451427475057
+Bugesera,Pumpkin,265.93145863852646
+Bugesera,Climbing bean,240.96010062759015
+Bugesera,GOMBO,223.47397961435146
+Bugesera,French beans,206.6268676323868
+Bugesera,Sun flower,206.47988205755945
+Bugesera,Pepper,137.87067831926322
+Bugesera,Mulberry,137.01610626438986
+Bugesera,Cucumber,124.92722134228703
+Bugesera,Yams,117.33674750575592
+Bugesera,Mango,115.00047398311587
+Bugesera,Leek,94.17977537605526
+Bugesera,Papaya,64.9515692248657
+Bugesera,Pea,24.095669048349958
+Bugesera,MURINGA,19.16674566385264
+Bugesera,Millet,5.036094244052187
+Burera,Irish potato,52223.8796887
+Burera,Sweet potato,21472.2990878
+Burera,Garlic,11386.135269999999
+Burera,Maize,10710.7804034
+Burera,Climbing bean,10062.22493965
+Burera,Sorghum,3568.0569262999998
+Burera,Cooking banana,3222.8403559
+Burera,Wheat,2808.0795479
+Burera,Cabbage,2024.8722699999998
+Burera,Napia grass for fodder,1835.7594307
+Burera,Onion,1378.4239779999998
+Burera,Banana for beer,1187.6704055999999
+Burera,Bush bean,785.1008103
+Burera,Dessert banana,651.4033916999999
+Burera,Pea,597.04004385
+Burera,Carrot,451.474194
+Burera,Pyrethrum,430.55841419999996
+Burera,Taro,417.7996995
+Burera,Tomato,377.30849580000006
+Burera,Tree tomato,362.60735800000003
+Burera,Eggplant,294.82021050000003
+Burera,Sugar cane,95.57028
+Burera,Napia grass,59.906008
+Burera,Millet,37.212941300000004
+Burera,Soybean,14.3791128
+Burera,Pumpkin,11.677098000000003
+Burera,Sun flower,2.13543005
+Burera,Amaranth,1.6299780000000001
+Gakenke,Sweet potato,50133.6895245
+Gakenke,Banana for beer,30805.0912812
+Gakenke,Dessert banana,19501.328191
+Gakenke,Climbing bean,10476.47663503
+Gakenke,Maize,10281.539922125
+Gakenke,Sugar cane,10243.5655181
+Gakenke,Cooking banana,9623.376348150001
+Gakenke,Irish potato,7145.3588236
+Gakenke,Cassava,5127.4607056
+Gakenke,Taro,2495.631063
+Gakenke,Eggplant,1700.244789
+Gakenke,Napia grass for fodder,1225.516448
+Gakenke,Cabbage,937.861155
+Gakenke,Tomato,760.67619855
+Gakenke,Tripsacum,418.574311
+Gakenke,Bush bean,350.53724425
+Gakenke,Coffee,296.52503190000004
+Gakenke,Wheat,255.960788
+Gakenke,Millet,177.27499775
+Gakenke,Amaranth,160.7062972
+Gakenke,Pumpkin,135.2071056
+Gakenke,Pea,129.15563914999998
+Gakenke,Carrot,125.57229330000001
+Gakenke,Soybean,122.86819712500001
+Gakenke,ITETE,89.438016
+Gakenke,Pepper,75.9863165
+Gakenke,Pineapple,59.60597779999999
+Gakenke,Groundnut,58.765276025000006
+Gakenke,Sweet pepper,42.094804499999995
+Gakenke,Napia grass,23.53632
+Gakenke,Sorghum,17.30761305
+Gakenke,French beans,16.22734
+Gakenke,Paddy rice,10.402119
+Gasabo,Dessert banana,10568.895191898217
+Gasabo,Banana for beer,6334.233507314586
+Gasabo,Sweet potato,5490.797095501945
+Gasabo,Cooking banana,5106.257200127552
+Gasabo,Cassava,5091.527179909562
+Gasabo,Bush bean,2891.891038623987
+Gasabo,Maize,2407.9440827064827
+Gasabo,Eggplant,2037.152843776175
+Gasabo,Irish potato,1381.5404906510532
+Gasabo,Sorghum,963.4994314943273
+Gasabo,COURGETTE,665.3161050243111
+Gasabo,Climbing bean,626.074013650243
+Gasabo,French beans,431.9333661134522
+Gasabo,Cabbage,427.28059675526737
+Gasabo,Sweet pepper,321.04142210696915
+Gasabo,Napia grass for fodder,294.97888417504055
+Gasabo,Taro,294.6906110405186
+Gasabo,Tomato,168.032614378282
+Gasabo,Soybean,137.0359453139384
+Gasabo,Macadamia,127.90589331280388
+Gasabo,Pea,125.07225626952997
+Gasabo,Groundnut,83.76443383549432
+Gasabo,Spinach,59.13920933549432
+Gasabo,Amaranth,55.33740302106968
+Gasabo,Carrot,22.320357459967585
+Gasabo,Sun flower,10.278433441166936
+Gasabo,Coffee,2.6337400372771476
+Gatsibo,Cooking banana,90281.82359936667
+Gatsibo,Maize,42772.283388639
+Gatsibo,Dessert banana,26501.7609713
+Gatsibo,Banana for beer,22761.159777966666
+Gatsibo,Cassava,17414.53833788
+Gatsibo,Bush bean,16810.490805397665
+Gatsibo,Sweet potato,13319.3442218
+Gatsibo,Cabbage,10679.8929033
+Gatsibo,Tomato,10074.057857986667
+Gatsibo,Irish potato,8189.1227198666675
+Gatsibo,Pepper,6993.460463999999
+Gatsibo,Sorghum,5941.21802686
+Gatsibo,Cucumber,3623.9846549999997
+Gatsibo,Paddy rice,2959.563838
+Gatsibo,Coffee,2631.7072087333336
+Gatsibo,Climbing bean,1462.3217553
+Gatsibo,Pumpkin,1146.89149
+Gatsibo,Groundnut,1144.5642761566667
+Gatsibo,Eggplant,1117.266349
+Gatsibo,French beans,1106.5602
+Gatsibo,Taro,975.95092178
+Gatsibo,Avocado,838.174977
+Gatsibo,Carrot,519.94965
+Gatsibo,Napia grass for fodder,323.1059136
+Gatsibo,Soybean,213.23701826866667
+Gatsibo,Amaranth,179.121288
+Gatsibo,Sugar cane,174.72668000000002
+Gatsibo,Sun flower,111.43940771999999
+Gatsibo,Millet,51.157841600000005
+Gatsibo,Pea,29.0526184
+Gatsibo,Tobacco,8.428849920000001
+Gicumbi,Sweet potato,42815.8265191
+Gicumbi,Irish potato,26286.4224485
+Gicumbi,Cooking banana,13298.20918315
+Gicumbi,Climbing bean,12172.27566486
+Gicumbi,Dessert banana,10184.992665
+Gicumbi,Napia grass for fodder,8265.8053491
+Gicumbi,Maize,5388.583466841
+Gicumbi,Cassava,5110.0656917
+Gicumbi,Sorghum,4466.8710969290005
+Gicumbi,Cabbage,4319.518410009
+Gicumbi,Banana for beer,4041.4244408000004
+Gicumbi,Bush bean,1407.26507231
+Gicumbi,Eggplant,1335.4776448
+Gicumbi,Carrot,766.9495041
+Gicumbi,Sugar cane,763.2316647
+Gicumbi,Onion,750.284128
+Gicumbi,Wheat,707.5089093
+Gicumbi,Pea,698.952252308
+Gicumbi,Taro,591.1214311
+Gicumbi,Goosebery,540.23984
+Gicumbi,Coffee,414.12140270000003
+Gicumbi,Napia grass,336.900866
+Gicumbi,Sweet pepper,323.61058
+Gicumbi,Tomato,317.845230408
+Gicumbi,Amaranth,133.6530148
+Gicumbi,Soybean,108.60017305
+Gicumbi,French beans,85.9688961
+Gicumbi,IGIKARANKA,70.21771399999999
+Gicumbi,Groundnut,60.3902613
+Gicumbi,Passion fruits,43.4770721
+Gicumbi,Beet root,39.480174500000004
+Gicumbi,Tree tomato,38.7063378
+Gicumbi,UMUKENKE,21.511644
+Gicumbi,RADI,15.967679999999998
+Gicumbi,Letus,10.645119999999999
+Gicumbi,Pumpkin,5.322559999999999
+Gicumbi,Sun flower,2.5548290000000002
+Gisagara,Cassava,17165.689157225
+Gisagara,Banana for beer,12657.107350966668
+Gisagara,Bush bean,11916.861014689
+Gisagara,Sweet potato,10842.231912816667
+Gisagara,Maize,9186.696275921668
+Gisagara,Dessert banana,7759.3871248000005
+Gisagara,Paddy rice,5430.2923345
+Gisagara,Cooking banana,4285.709826983333
+Gisagara,Tomato,2845.4106002
+Gisagara,Climbing bean,2130.1856222163333
+Gisagara,Sorghum,1303.4460998333334
+Gisagara,Cabbage,1207.4421593333334
+Gisagara,Taro,795.5526400333333
+Gisagara,Eggplant,701.8598341833333
+Gisagara,Soybean,572.7502071883333
+Gisagara,Sun flower,301.305739872
+Gisagara,Onion,256.553103
+Gisagara,Coffee,219.30005396666667
+Gisagara,Amaranth,204.6557352
+Gisagara,Groundnut,88.3730975
+Gisagara,Irish potato,72.42132
+Gisagara,Pea,61.084247100000006
+Gisagara,French beans,59.65758065
+Gisagara,Carrot,29.467429499999994
+Gisagara,Small red bean,20.6491813
+Gisagara,Pepper,19.996392
+Gisagara,Tobacco,11.0283616
+Gisagara,URUYUZI,7.577708
+Huye,Sweet potato,17868.49267375
+Huye,Dessert banana,6338.732122523334
+Huye,Maize,6202.654764361
+Huye,Climbing bean,5683.276359791334
+Huye,Banana for beer,5189.192714433333
+Huye,Cassava,4812.385695758333
+Huye,Bush bean,4598.579899249
+Huye,Paddy rice,4589.087772066667
+Huye,Napia grass for fodder,3168.9465305
+Huye,Cooking banana,2912.1682865333332
+Huye,Coffee,2407.8363015
+Huye,Eggplant,2215.8514090333333
+Huye,Sorghum,2035.5864215316667
+Huye,Tomato,1852.65194245
+Huye,Cabbage,1665.1620434000001
+Huye,Soybean,698.070344791
+Huye,Carrot,551.232593
+Huye,Amaranth,521.2018596166666
+Huye,Taro,425.3127243
+Huye,Onion,385.23265879999997
+Huye,Sweet pepper,379.69132
+Huye,Avocado,256.8657546
+Huye,Pumpkin,233.76745373333335
+Huye,Irish potato,233.3600878
+Huye,Pea,216.40401444
+Huye,French beans,83.36739685
+Huye,Sun flower,48.475250251666665
+Huye,Desmodium,44.316528
+Huye,Maize for fodder,18.0987384
+Huye,Mucuna,16.618698000000002
+Huye,Groundnut,11.14456242
+Huye,Ibibiringanya,2.0094172
+Huye,Other pulse(specify),1.6618697999999998
+Huye,Small red bean,0.6361553916666667
+Kamonyi,Cassava,291726.44745030004
+Kamonyi,Banana for beer,70393.5223236
+Kamonyi,Tomato,35576.064893805
+Kamonyi,Sweet potato,19332.3909374
+Kamonyi,Dessert banana,12486.276305700001
+Kamonyi,Bush bean,8299.555843087
+Kamonyi,Maize,8061.111935323001
+Kamonyi,Cooking banana,7482.69280905
+Kamonyi,Eggplant,5486.6743511
+Kamonyi,Sugar cane,3690.5099
+Kamonyi,Taro,3401.45440155
+Kamonyi,Paddy rice,3193.5757772
+Kamonyi,Climbing bean,2228.1428888249998
+Kamonyi,Sorghum,1509.44093416
+Kamonyi,Soybean,1026.296232811
+Kamonyi,Pumpkin,967.409577
+Kamonyi,Irish potato,824.3245872
+Kamonyi,Coffee,737.5635744
+Kamonyi,Groundnut,646.633189765
+Kamonyi,Napia grass for fodder,324.78978
+Kamonyi,Cabbage,311.02898
+Kamonyi,Pineapple,249.649992
+Kamonyi,Napia grass,165.812662
+Kamonyi,Pea,116.67391314800001
+Kamonyi,Yams,78.01562249999999
+Kamonyi,Carrot,63.165532500000005
+Kamonyi,Pepper,43.1251137
+Kamonyi,Black eggplant,41.608332000000004
+Kamonyi,French beans,31.403547500000002
+Kamonyi,Amaranth,19.507372
+Kamonyi,Tree tomato,18.252722000000002
+Kamonyi,Papaya,15.605058
+Kamonyi,Mango,11.146469999999999
+Kamonyi,Sun flower,9.534712500000001
+Kamonyi,Mandoline,7.245205499999999
+Kamonyi,Sweet pepper,6.197285000000001
+Karongi,Banana for beer,37914.98417297858
+Karongi,Sweet potato,21405.738495504764
+Karongi,Dessert banana,13185.168197004763
+Karongi,Climbing bean,6926.208043002381
+Karongi,Taro,4889.366938166667
+Karongi,Maize,4719.382963919048
+Karongi,Cassava,4283.788735652381
+Karongi,Cooking banana,3004.8682674428574
+Karongi,Eggplant,2211.0803605833335
+Karongi,Sorghum,1915.295718561905
+Karongi,Napia grass for fodder,1636.977486
+Karongi,Onion,1627.0253256966666
+Karongi,Sugar cane,671.9382723333333
+Karongi,Irish potato,670.3978413333334
+Karongi,Cabbage,665.2162467333334
+Karongi,Bush bean,605.296995204762
+Karongi,Pea,470.7117625714286
+Karongi,Coffee,372.8298688580952
+Karongi,Soybean,360.61630568333334
+Karongi,Amaranth,297.854458
+Karongi,Carrot,289.8586325
+Karongi,Sweet pepper,279.5476404
+Karongi,Tree tomato,196.99600433333336
+Karongi,Passion fruits,176.20212210000003
+Karongi,Napia grass,70.841337
+Karongi,Groundnut,53.96467425000001
+Karongi,Lemongrass,51.15135000000001
+Karongi,Beet root,24.061974766666665
+Karongi,Tomato,20.819416
+Karongi,Paddy rice,19.827574999999996
+Kayonza,Cooking banana,88955.10986797143
+Kayonza,Cassava,68707.19488196667
+Kayonza,Maize,35703.56875752024
+Kayonza,Bush bean,14812.458973528572
+Kayonza,Banana for beer,13363.612437802381
+Kayonza,Dessert banana,11887.357662854762
+Kayonza,Sweet potato,10141.13249314762
+Kayonza,Irish potato,9014.10354475
+Kayonza,Sorghum,8030.934716348809
+Kayonza,Paddy rice,5480.039756833334
+Kayonza,Napia grass for fodder,4656.579165
+Kayonza,Tomato,2804.8603034000002
+Kayonza,Carrot,1428.5007567999999
+Kayonza,Eggplant,1365.8835921999998
+Kayonza,Coffee,799.8027122999999
+Kayonza,Taro,728.1373029857142
+Kayonza,Cabbage,695.8194135
+Kayonza,Climbing bean,348.0399049
+Kayonza,Groundnut,340.97274346666666
+Kayonza,Amaranth,339.83229600000004
+Kayonza,Yams,246.37985
+Kayonza,Sun flower,146.45849426666666
+Kayonza,Millet,124.9085859
+Kayonza,Passion fruits,118.35723
+Kayonza,Soybean,98.615955375
+Kayonza,Pea,82.1140185
+Kayonza,Pumpkin,34.37421225000001
+Kayonza,Tobacco,25.2501195
+Kayonza,Leek,8.730808
+Kicukiro,Cabbage,2414.0815615609763
+Kicukiro,Tomato,2368.9057662569107
+Kicukiro,Maize,1865.1419105626019
+Kicukiro,Sweet potato,899.9865470731709
+Kicukiro,Banana for beer,864.3629565788618
+Kicukiro,Taro,799.5649643902439
+Kicukiro,Bush bean,775.2402210406506
+Kicukiro,Cassava,534.3449538308944
+Kicukiro,Cooking banana,341.7866891284553
+Kicukiro,Paddy rice,241.4081561560976
+Kicukiro,Sorghum,222.5426003674797
+Kicukiro,Pineapple,114.64070614634146
+Kicukiro,Climbing bean,57.32035307317073
+Kicukiro,Dessert banana,46.58753890731708
+Kicukiro,Soybean,19.106784357723576
+Kirehe,Cooking banana,81597.37406511429
+Kirehe,Maize,43553.902069071424
+Kirehe,Banana for beer,27675.044240128573
+Kirehe,Bush bean,20500.05410599286
+Kirehe,Dessert banana,17618.555758121427
+Kirehe,Cassava,17114.43144927143
+Kirehe,Sweet potato,13330.637284
+Kirehe,Irish potato,8405.007496342858
+Kirehe,Sorghum,7701.711371228572
+Kirehe,Climbing bean,6642.179470585714
+Kirehe,Sweet pepper,6093.123475
+Kirehe,Tomato,4391.604425128571
+Kirehe,Paddy rice,3992.8938322000004
+Kirehe,Soybean,3678.3140682928574
+Kirehe,Napia grass for fodder,1655.817
+Kirehe,Coffee,1215.8329314
+Kirehe,Taro,1081.0317790357144
+Kirehe,Pumpkin,880.2920303999999
+Kirehe,Eggplant,708.5115964
+Kirehe,Passion fruits,583.948378
+Kirehe,Groundnut,530.9527513071429
+Kirehe,Amaranth,450.2573635
+Kirehe,Pepper,186.150688
+Kirehe,Pineapple,153.48118
+Kirehe,Tobacco,88.146075
+Kirehe,Tree tomato,77.207618
+Kirehe,Onion,54.87015
+Kirehe,Pea,37.8029072
+Kirehe,Sun flower,31.294155000000003
+Kirehe,French beans,8.779224000000001
+Kirehe,Wheat,7.31602
+Muhanga,Banana for beer,66375.286049
+Muhanga,Sweet potato,47745.9038303
+Muhanga,Dessert banana,23536.43273647
+Muhanga,Cassava,17616.732821725
+Muhanga,Cooking banana,15590.254249
+Muhanga,Taro,15031.0548941
+Muhanga,Napia grass for fodder,12977.2875222
+Muhanga,Climbing bean,6763.68551926
+Muhanga,Cabbage,3846.6870756000003
+Muhanga,Maize,3817.104881515
+Muhanga,Bush bean,2073.564288571
+Muhanga,Soybean,1431.191129895
+Muhanga,Eggplant,1310.031363364
+Muhanga,Tomato,1029.7209734199998
+Muhanga,Amaranth,735.1006424
+Muhanga,Carrot,727.52524955
+Muhanga,Paddy rice,571.1430779
+Muhanga,Coffee,524.2707806
+Muhanga,Sugar cane,366.95224759999996
+Muhanga,Avocado,207.64509600000002
+Muhanga,Pumpkin,146.9901312
+Muhanga,Irish potato,130.809236
+Muhanga,Passion fruits,92.5526112
+Muhanga,Yams,72.376773
+Muhanga,Pea,69.0687073
+Muhanga,Millet,61.72248390000001
+Muhanga,French beans,34.4742389
+Muhanga,Sorghum,28.433212
+Muhanga,Mango,19.080196
+Muhanga,Jatropha,10.797936
+Muhanga,Groundnut,6.0463613
+Muhanga,Sweet pepper,2.4520128
+Muhanga,Leek,1.6578844
+Musanze,Irish potato,39164.75397289107
+Musanze,Sweet potato,22558.870640356254
+Musanze,Dessert banana,8540.951739636506
+Musanze,Maize,8457.580965298986
+Musanze,Cabbage,8337.870676138291
+Musanze,Climbing bean,7855.575752749658
+Musanze,Banana for beer,6141.48589202115
+Musanze,Onion,3679.639609888943
+Musanze,Cooking banana,3578.357261059875
+Musanze,Carrot,3326.920478497345
+Musanze,Wheat,1826.3769652777403
+Musanze,Tomato,1666.225268676968
+Musanze,Sugar cane,1273.083662901497
+Musanze,Cassava,1192.221172561275
+Musanze,Eggplant,961.4712818184454
+Musanze,Sorghum,696.7062816709802
+Musanze,Taro,503.1144625857074
+Musanze,Bush bean,458.18944098976345
+Musanze,Napia grass,450.70812630130376
+Musanze,Garlic,331.8890628527282
+Musanze,Pyrethrum,328.4632274885563
+Musanze,Amaranth,298.93973049068086
+Musanze,Tree tomato,230.91122843785612
+Musanze,Pea,215.74584930564944
+Musanze,Napia grass for fodder,177.41860240415258
+Musanze,Pumpkin,102.27573646354418
+Musanze,Soybean,12.416369461129891
+Musanze,Papaya,8.043397270400773
+Ngoma,Cooking banana,53962.87643206667
+Ngoma,Banana for beer,36696.27149985
+Ngoma,Maize,36235.551159525334
+Ngoma,Cassava,32863.2910193
+Ngoma,Bush bean,15298.477366097
+Ngoma,Sweet potato,12255.960719516666
+Ngoma,Dessert banana,11494.116642333334
+Ngoma,Pineapple,7996.20062735
+Ngoma,Paddy rice,6123.1493124
+Ngoma,Sorghum,5078.145861414334
+Ngoma,Taro,3383.631647816667
+Ngoma,Tomato,3076.48457395
+Ngoma,Napia grass for fodder,2333.7959745
+Ngoma,Irish potato,2234.9530810833335
+Ngoma,Climbing bean,1646.7253846566666
+Ngoma,Cabbage,1229.85742475
+Ngoma,Coffee,761.9212871166667
+Ngoma,Tripsacum,720.6672262999999
+Ngoma,Sugar cane,716.7840458333334
+Ngoma,Soybean,634.54640025
+Ngoma,Pepper,615.1902364000001
+Ngoma,Chia seeds,499.66915185833335
+Ngoma,Pumpkin,415.35342840000004
+Ngoma,Eggplant,410.90338125
+Ngoma,Groundnut,395.3882694316667
+Ngoma,Sun flower,359.51386297833335
+Ngoma,Onion,281.8108025
+Ngoma,Pea,85.94400900000001
+Ngoma,Millet,58.000232700000005
+Ngoma,Tree tomato,39.005153
+Ngoma,Amaranth,25.434522400000002
+Ngoma,Small red bean,1.2137299499999998
+Ngoma,French beans,0.24880090000000002
+Ngororero,Banana for beer,65783.14631583571
+Ngororero,Sweet potato,36542.9398327
+Ngororero,Dessert banana,18850.08040824286
+Ngororero,Taro,7382.811518171428
+Ngororero,Climbing bean,7026.758713164286
+Ngororero,Cassava,6534.291807942857
+Ngororero,Cooking banana,4783.384801321429
+Ngororero,Maize,4413.685387578572
+Ngororero,Paddy rice,2602.7955
+Ngororero,Irish potato,2514.4365987714286
+Ngororero,Sugar cane,1545.8218875999999
+Ngororero,Tomato,1463.6538054
+Ngororero,Napia grass,902.3024399999999
+Ngororero,Eggplant,827.388657
+Ngororero,Soybean,530.928248696
+Ngororero,Tree tomato,509.6522
+Ngororero,Cabbage,369.8995169285714
+Ngororero,Napia grass for fodder,356.926662
+Ngororero,Onion,334.3977342857143
+Ngororero,Bush bean,242.400559024
+Ngororero,Wheat,220.2985495
+Ngororero,Pea,188.41359204285715
+Ngororero,Black eggplant,117.636
+Ngororero,Sorghum,110.7488376
+Ngororero,Carrot,72.8100136
+Ngororero,Pineapple,62.005244
+Ngororero,Coffee,46.7542176
+Ngororero,Pepper,8.3147024
+Ngororero,Amaranth,2.0407224
+Nyabihu,Irish potato,101947.03237
+Nyabihu,Carrot,11321.200488
+Nyabihu,Banana for beer,8845.143059
+Nyabihu,Sweet potato,7744.716017
+Nyabihu,Climbing bean,5544.0119472
+Nyabihu,Dessert banana,3375.4502159
+Nyabihu,Maize,3339.5084004
+Nyabihu,Cabbage,1886.05508
+Nyabihu,Wheat,862.5904104
+Nyabihu,Cassava,534.887564
+Nyabihu,Cooking banana,477.59525399999995
+Nyabihu,Sugar cane,415.73015999999996
+Nyabihu,Bush bean,299.438218
+Nyabihu,Tree tomato,250.741982
+Nyabihu,Taro,150.418784
+Nyabihu,Pea,102.226884
+Nyabihu,Eggplant,64.669136
+Nyabihu,Sorghum,62.405209
+Nyabihu,Maize for fodder,48.0219
+Nyabihu,Pyrethrum,34.032792
+Nyabihu,Onion,27.070175
+Nyabihu,Soybean,0.9238447999999999
+Nyagatare,Maize,260849.0648490052
+Nyagatare,Paddy rice,144610.48860362355
+Nyagatare,Cooking banana,95346.17710063941
+Nyagatare,Banana for beer,51884.255487288225
+Nyagatare,Sweet potato,45017.86398310894
+Nyagatare,Dessert banana,44528.11873130815
+Nyagatare,Bush bean,34344.70397871927
+Nyagatare,Maize for fodder,13761.868163002522
+Nyagatare,Sorghum,13590.751834333088
+Nyagatare,Cassava,9618.999485200071
+Nyagatare,Soybean,2085.658048308772
+Nyagatare,Groundnut,2016.16986242049
+Nyagatare,Sugar cane,1547.9481503710376
+Nyagatare,Climbing bean,1419.8102530446506
+Nyagatare,Tomato,944.0796548067364
+Nyagatare,Taro,660.4845939445246
+Nyagatare,Irish potato,490.97922377615276
+Nyagatare,Millet,423.29964475893377
+Nyagatare,Amaranth,355.89635145659224
+Nyagatare,Cloris Gayana,171.3136304394813
+Nyagatare,Coffee,89.35683291570605
+Nyagatare,Napia grass for fodder,85.65681521974065
+Nyagatare,Eggplant,64.11429820244958
+Nyagatare,Pineapple,20.516575424783863
+Nyagatare,Onion,20.424418952161382
+Nyamagabe,Irish potato,40843.773417200005
+Nyamagabe,Sweet potato,24955.5192906
+Nyamagabe,Banana for beer,6495.115214925
+Nyamagabe,Climbing bean,5672.004275757
+Nyamagabe,Maize,4687.616121897
+Nyamagabe,Dessert banana,4409.8198412
+Nyamagabe,Cassava,3118.845616248
+Nyamagabe,Sorghum,1738.428042732
+Nyamagabe,Taro,1662.9768883
+Nyamagabe,Cooking banana,1558.1080907
+Nyamagabe,Wheat,1394.07936035
+Nyamagabe,Cabbage,1120.4346206
+Nyamagabe,Bush bean,787.313467404
+Nyamagabe,Pea,675.199902215
+Nyamagabe,Eggplant,344.6101976
+Nyamagabe,Napia grass for fodder,343.418039
+Nyamagabe,Soybean,338.60637365
+Nyamagabe,Coffee,282.42959461299995
+Nyamagabe,Garlic,190.8192992
+Nyamagabe,Napia grass,171.13641
+Nyamagabe,Tomato,168.5264129
+Nyamagabe,Tripsacum,167.48625
+Nyamagabe,Setaria,84.41247999999999
+Nyamagabe,Carrot,59.508009900000005
+Nyamagabe,Onion,52.730587225
+Nyamagabe,Pumpkin,51.31308799999999
+Nyamagabe,SARAZI,46.179894000000004
+Nyamagabe,Maize for fodder,44.688959999999994
+Nyamagabe,Amaranth,42.6663271
+Nyamagabe,Yams,39.796876999999995
+Nyamagabe,French beans,14.688324
+Nyamagabe,Small red bean,8.819437
+Nyamagabe,Sweet pepper,8.597481
+Nyamagabe,Pepper,7.8944352
+Nyamagabe,Groundnut,3.9244692
+Nyamagabe,SARAZA,3.8483245
+Nyamagabe,Pineapple,3.12641
+Nyamasheke,Cassava,43014.09526275
+Nyamasheke,Banana for beer,42396.70846987857
+Nyamasheke,Sweet potato,39679.63696952857
+Nyamasheke,Dessert banana,17588.364459828572
+Nyamasheke,Cooking banana,14126.761148828571
+Nyamasheke,Maize,9749.741664557143
+Nyamasheke,Coffee,8198.0196361
+Nyamasheke,Climbing bean,7606.59191025
+Nyamasheke,Sugar cane,6838.954517499999
+Nyamasheke,Taro,6746.1813661999995
+Nyamasheke,Napia grass,2579.0068630000005
+Nyamasheke,Tomato,2139.4896191
+Nyamasheke,Soybean,1829.2759575285713
+Nyamasheke,Bush bean,1568.8062626328572
+Nyamasheke,Napia grass for fodder,1158.8531185
+Nyamasheke,Cabbage,731.4525134999999
+Nyamasheke,Eggplant,713.1890769
+Nyamasheke,Amaranth,711.2322956
+Nyamasheke,Groundnut,678.7986584
+Nyamasheke,Pineapple,214.4265866
+Nyamasheke,Pumpkin,142.334404
+Nyamasheke,Pepper,91.76046000000001
+Nyamasheke,Carrot,73.88870849999999
+Nyamasheke,Pea,56.071130499999995
+Nyamasheke,Yams,41.9626711
+Nyamasheke,Onion,35.314096
+Nyamasheke,Sorghum,18.5227678
+Nyamasheke,Millet,18.3997188
+Nyanza,Cassava,30417.98380174
+Nyanza,Banana for beer,25916.0062768
+Nyanza,Sweet potato,21564.855223799997
+Nyanza,Maize,12657.115831963
+Nyanza,Bush bean,11301.176061852
+Nyanza,Paddy rice,10019.0668083
+Nyanza,Dessert banana,9104.929699799999
+Nyanza,Cooking banana,5524.85591882
+Nyanza,Tomato,3611.877986
+Nyanza,Taro,2682.4462958999998
+Nyanza,Napia grass for fodder,2368.017843
+Nyanza,Sorghum,2321.679840556
+Nyanza,Cabbage,1486.8046967999999
+Nyanza,Soybean,1435.876033631
+Nyanza,Eggplant,1215.6927667999998
+Nyanza,Climbing bean,1084.974257982
+Nyanza,Onion,1071.09464225
+Nyanza,Coffee,534.325461518
+Nyanza,Groundnut,427.469061806
+Nyanza,Sugar cane,283.21188
+Nyanza,Irish potato,231.40985460000002
+Nyanza,Sun flower,185.668939852
+Nyanza,Pea,130.5193299792
+Nyanza,Pumpkin,118.8224165
+Nyanza,Sweet pepper,74.029536
+Nyanza,Yams,44.371093
+Nyanza,Carrot,29.052902400000004
+Nyanza,IMYUNGU,23.53218
+Nyanza,Amaranth,23.031411199999997
+Nyanza,Pepper,6.8801543999999994
+Nyanza,Small red bean,1.4616302200000002
+Nyanza,French beans,1.25452395
+Nyarugenge,Banana for beer,6234.519098082827
+Nyarugenge,Cassava,1875.131868657239
+Nyarugenge,Amaranth,1842.6301299443098
+Nyarugenge,Dessert banana,1817.2079181407407
+Nyarugenge,Bush bean,1798.055345459879
+Nyarugenge,Cooking banana,1667.4112770552188
+Nyarugenge,Sweet potato,821.5475132141414
+Nyarugenge,Maize,737.6448409198654
+Nyarugenge,Tomato,242.4876129292929
+Nyarugenge,Climbing bean,235.87191972929296
+Nyarugenge,Sweet pepper,121.95091772727274
+Nyarugenge,Taro,99.20433828282827
+Nyarugenge,Soybean,61.107710216161614
+Nyarugenge,Eggplant,55.772150973737375
+Nyarugenge,Irish potato,37.940285515151515
+Nyarugenge,Groundnut,19.13450316767677
+Nyaruguru,Sweet potato,72083.93984004667
+Nyaruguru,Napia grass for fodder,11073.4013605
+Nyaruguru,Climbing bean,9199.684776936667
+Nyaruguru,Irish potato,8935.63651574
+Nyaruguru,Banana for beer,6166.730911013334
+Nyaruguru,Cassava,4908.983520553334
+Nyaruguru,Maize,4663.974178506667
+Nyaruguru,Taro,3379.7997277333334
+Nyaruguru,Dessert banana,3359.946920406667
+Nyaruguru,Cooking banana,2867.7740161066667
+Nyaruguru,Sorghum,2186.5980459566667
+Nyaruguru,Cabbage,1389.4242893333335
+Nyaruguru,Bush bean,1232.51388689
+Nyaruguru,Coffee,1020.4235316
+Nyaruguru,Amaranth,838.2013377
+Nyaruguru,Napia grass,481.1694708
+Nyaruguru,Eggplant,392.39002744000004
+Nyaruguru,Carrot,278.76602149999997
+Nyaruguru,Tomato,238.64720800000003
+Nyaruguru,Wheat,230.67292153333332
+Nyaruguru,Passion fruits,213.30696049999997
+Nyaruguru,Avocado,212.7085952
+Nyaruguru,Soybean,98.53541792333333
+Nyaruguru,Pea,90.72177426
+Nyaruguru,Sugar cane,61.33176
+Nyaruguru,Macadamia,29.8477873
+Nyaruguru,Onion,10.928475500000001
+Nyaruguru,Sun flower,6.873934
+Nyaruguru,Tree tomato,3.5233893333333333
+Rubavu,Irish potato,23945.4277559
+Rubavu,Sweet potato,7280.040333
+Rubavu,Cabbage,6832.127685
+Rubavu,Sugar cane,6231.817536099999
+Rubavu,Maize,3950.36849295
+Rubavu,Climbing bean,3348.249136786
+Rubavu,Cooking banana,2163.3478446
+Rubavu,Carrot,2142.0165420000003
+Rubavu,Onion,1318.139135
+Rubavu,Bush bean,1279.5309302500002
+Rubavu,Dessert banana,944.7899888
+Rubavu,Banana for beer,667.8762124
+Rubavu,Eggplant,602.1554305999999
+Rubavu,Garlic,406.59172750000005
+Rubavu,Beet root,325.85431000000005
+Rubavu,Cassava,213.372054
+Rubavu,Napia grass for fodder,187.57965600000003
+Rubavu,Leek,156.31638
+Rubavu,Maize for fodder,156.31638
+Rubavu,Cauliflower,152.86424
+Rubavu,Taro,143.760113
+Rubavu,Sweet pepper,117.771274
+Rubavu,Tree tomato,102.190175
+Rubavu,Tomato,84.678864
+Rubavu,Tobacco,45.859272
+Rubavu,Pea,42.0908662
+Rubavu,Soybean,27.8734594
+Rubavu,Coffee,3.528286
+Rubavu,ISOGO,1.0421092
+Rubavu,Celery,0.5210546
+Ruhango,Banana for beer,26154.3674247396
+Ruhango,Cassava,25725.112183331847
+Ruhango,Sweet potato,24793.636256604277
+Ruhango,Maize,8893.681622731581
+Ruhango,Dessert banana,8838.648787717766
+Ruhango,Bush bean,8223.282517132056
+Ruhango,Napia grass for fodder,6384.639196330956
+Ruhango,Tomato,6048.724819130125
+Ruhango,Taro,4812.782924140968
+Ruhango,Cooking banana,3176.553665384878
+Ruhango,Paddy rice,3080.7094198163995
+Ruhango,Climbing bean,2709.9155423413545
+Ruhango,Sorghum,1678.2630866890968
+Ruhango,Soybean,1596.9792792782234
+Ruhango,Cabbage,1380.6056358909686
+Ruhango,Coffee,1034.7572094087936
+Ruhango,Eggplant,983.031176024064
+Ruhango,Napia grass,729.4547468805704
+Ruhango,Carrot,607.8710762269757
+Ruhango,Groundnut,352.3338446440879
+Ruhango,Onion,223.19825973707663
+Ruhango,Sweet pepper,203.8907039759358
+Ruhango,Sugar cane,195.62295555555554
+Ruhango,Irish potato,169.6284673550208
+Ruhango,Sun flower,165.70583942394535
+Ruhango,Pineapple,154.82124327985738
+Ruhango,Amaranth,152.62309225935826
+Ruhango,Pea,61.08645403379382
+Ruhango,Yams,40.15633697860962
+Ruhango,Pepper,1.716909690285205
+Rulindo,Banana for beer,30284.87420587619
+Rulindo,Sweet potato,29107.768945528573
+Rulindo,Cassava,16496.429702435715
+Rulindo,Dessert banana,14439.181346767857
+Rulindo,Cooking banana,9512.402086483333
+Rulindo,Irish potato,7387.141862752381
+Rulindo,Maize,6406.227364135714
+Rulindo,Bush bean,5844.870694992857
+Rulindo,Climbing bean,4901.961276980953
+Rulindo,Sorghum,4342.751429666667
+Rulindo,Eggplant,3413.91471825
+Rulindo,Cabbage,3074.2342472
+Rulindo,Coffee,1892.0895108333334
+Rulindo,Tomato,1701.8884684
+Rulindo,Napia grass,1613.47746
+Rulindo,Sugar cane,1586.6894988
+Rulindo,Taro,1222.7831339333334
+Rulindo,Amaranth,974.266872
+Rulindo,Sweet pepper,346.1386308
+Rulindo,Carrot,339.6045343
+Rulindo,Soybean,319.8900951
+Rulindo,Beet root,192.542208
+Rulindo,Pea,173.81745076428572
+Rulindo,Pepper,161.25409919999998
+Rulindo,Onion,150.7957395
+Rulindo,Groundnut,122.16060159999999
+Rulindo,Wheat,44.86020798333334
+Rulindo,French beans,14.7283353
+Rulindo,Small red bean,4.0769876
+Rusizi,Cassava,71896.23749663333
+Rusizi,Banana for beer,19274.804199233335
+Rusizi,Sweet potato,10413.2462672
+Rusizi,Maize,10226.538798236666
+Rusizi,Dessert banana,6950.55773524
+Rusizi,Bush bean,6851.16171776
+Rusizi,Cooking banana,5061.33281064
+Rusizi,Paddy rice,5025.5577188
+Rusizi,Climbing bean,2441.9581213066667
+Rusizi,Coffee,1854.8743612
+Rusizi,Sugar cane,1473.810135
+Rusizi,Taro,1162.6685941666667
+Rusizi,Napia grass for fodder,1037.96308
+Rusizi,Tomato,886.1309583333333
+Rusizi,Mango,820.7062
+Rusizi,Amaranth,721.46426163
+Rusizi,Carrot,710.6120576
+Rusizi,Orange,385.342097
+Rusizi,Eggplant,339.2155733
+Rusizi,Cabbage,259.2149874
+Rusizi,Pepper,155.52715320000001
+Rusizi,Soybean,145.73710357
+Rusizi,IBISUSA,140.41258016
+Rusizi,Napia grass,129.745385
+Rusizi,Groundnut,103.2948738
+Rusizi,Irish potato,101.926161
+Rusizi,Passion fruits,89.064851
+Rusizi,Sorghum,54.45759696666666
+Rusizi,Pumpkin,39.085133299999995
+Rusizi,Pea,20.5034025
+Rusizi,Sun flower,0.8275064
+Rutsiro,Irish potato,18593.432060342857
+Rutsiro,Banana for beer,15930.348569802381
+Rutsiro,Sweet potato,15066.916089204762
+Rutsiro,Cassava,12057.836494802381
+Rutsiro,Dessert banana,9739.19835807857
+Rutsiro,Climbing bean,5331.932893835714
+Rutsiro,Maize,5082.251763859524
+Rutsiro,Cooking banana,4975.001986888095
+Rutsiro,Sugar cane,4179.4884368
+Rutsiro,Taro,3570.9059750142856
+Rutsiro,Eggplant,2133.830958495238
+Rutsiro,Coffee,1927.863054742857
+Rutsiro,Passion fruits,704.372913
+Rutsiro,Napia grass,518.9146971428571
+Rutsiro,Soybean,404.9441603059524
+Rutsiro,Napia grass for fodder,367.421951
+Rutsiro,Sweet pepper,210.22815265714286
+Rutsiro,Pea,185.24706945557142
+Rutsiro,Pineapple,175.229355
+Rutsiro,Tomato,139.262011
+Rutsiro,Cabbage,133.3656
+Rutsiro,Wheat,127.91323497142857
+Rutsiro,Bush bean,117.22202553333334
+Rutsiro,Pumpkin,39.489594
+Rutsiro,Sorghum,36.9994184
+Rutsiro,French beans,25.032764999999998
+Rutsiro,Amaranth,20.026212
+Rwamagana,Cooking banana,41555.211273575
+Rwamagana,Banana for beer,32190.530877799996
+Rwamagana,Maize,13278.596638116667
+Rwamagana,Bush bean,12419.784100196666
+Rwamagana,Dessert banana,8332.606423133333
+Rwamagana,Sweet potato,7974.344144833333
+Rwamagana,Tomato,5982.412098033334
+Rwamagana,Sorghum,4764.390042031667
+Rwamagana,Cassava,4471.727076076667
+Rwamagana,Napia grass for fodder,4343.9407392
+Rwamagana,Eggplant,2133.7351552
+Rwamagana,Mango,2052.6825
+Rwamagana,Cabbage,1547.8706785000002
+Rwamagana,Taro,925.6669635666667
+Rwamagana,Amaranth,895.067208
+Rwamagana,Irish potato,666.550908
+Rwamagana,Coffee,554.421766
+Rwamagana,Carrot,546.072031
+Rwamagana,Beet root,522.1479125000001
+Rwamagana,Sun flower,420.3792509166667
+Rwamagana,Climbing bean,371.077629
+Rwamagana,Sweet pepper,239.71522800000002
+Rwamagana,Groundnut,231.5131148
+Rwamagana,French beans,219.78523079999997
+Rwamagana,Soybean,159.15215517500002
+Rwamagana,Tree tomato,50.5875
+Rwamagana,Small red bean,10.1175
+Rwamagana,Pepper,1.01175
