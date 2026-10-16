@@ -120,7 +120,7 @@ with col1:
 
 with col2:
   top_district = (
-      filtered_df.sort_values(by="apfi_score", ascending=False).iloc[
+      filtered_df.sort_values(by="apfi_score", ascending=False).iloc[0][
           "district_name"
       ]
       if not filtered_df.empty
@@ -138,7 +138,7 @@ with col3:
 
 with col4:
   top_margin = (
-      filtered_df.sort_values(by="apfi_score", ascending=False).iloc[
+      filtered_df.sort_values(by="apfi_score", ascending=False).iloc[0][
           "export_tier"
       ]
       if not filtered_df.empty
@@ -225,7 +225,7 @@ st.divider()
 st.subheader("💡 Strategic Investment Brief (RDB / MINAGRI Action Card)")
 
 if not filtered_df.empty:
-  best_match = filtered_df.sort_values(by="apfi_score", ascending=False).iloc
+  best_match = filtered_df.sort_values(by="apfi_score", ascending=False).iloc[0]
 
   st.success(f"""
     ### 🎯 Priority Investment Hub: **{best_match['district_name']} District**
