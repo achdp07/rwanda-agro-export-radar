@@ -1,4 +1,3 @@
-# 2. Write the app.py file directly from Colab
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
@@ -46,15 +45,15 @@ st.markdown(
 # ---------------------------------------------------------
 @st.cache_data
 def load_radar_data():
-  # Updated to point to the correct Google Drive path where the file was saved
-  df = pd.read_csv("/content/drive/MyDrive/NISR HACKATHON TO BE WON/Data/ranked_agro_radar.csv")
+  # Update this path if running locally or on Streamlit Cloud
+  df = pd.read_csv("ranked_agro_radar.csv")
   return df
 
 
 try:
   df_radar = load_radar_data()
 except Exception as e:
-  st.error(f"⚠️ Error loading dataset: {e}")
+  st.error("⚠️ `ranked_agro_radar.csv` not found. Please ensure the dataset is in the working directory.")
   st.stop()
 
 # ---------------------------------------------------------
@@ -121,7 +120,7 @@ with col1:
 
 with col2:
   top_district = (
-      filtered_df.sort_values(by="apfi_score", ascending=False).iloc[0][
+      filtered_df.sort_values(by="apfi_score", ascending=False).iloc[
           "district_name"
       ]
       if not filtered_df.empty
@@ -139,7 +138,7 @@ with col3:
 
 with col4:
   top_margin = (
-      filtered_df.sort_values(by="apfi_score", ascending=False).iloc[0][
+      filtered_df.sort_values(by="apfi_score", ascending=False).iloc[
           "export_tier"
       ]
       if not filtered_df.empty
@@ -226,7 +225,7 @@ st.divider()
 st.subheader("💡 Strategic Investment Brief (RDB / MINAGRI Action Card)")
 
 if not filtered_df.empty:
-  best_match = filtered_df.sort_values(by="apfi_score", ascending=False).iloc[0]
+  best_match = filtered_df.sort_values(by="apfi_score", ascending=False).iloc
 
   st.success(f"""
     ### 🎯 Priority Investment Hub: **{best_match['district_name']} District**
@@ -235,7 +234,7 @@ if not filtered_df.empty:
     * **Recommended Processing Line:** **{best_match['processing_line']}**
     * **Value-Addition Category:** {best_match['export_tier']}
     * **Model Feasibility Index Score:** `{best_match['apfi_score']}`
-
+    
     ---
     **Strategic Alignment:** Shifting from exporting raw **{best_match['crop_name']}** to establishing a **{best_match['processing_line']}** in **{best_match['district_name']}** directly aligns with **RDB's 2025–2030 Strategy** to increase product complexity (PCI) and **Vision 2050** export goals.
     """)
@@ -245,5 +244,5 @@ else:
 # Footer
 st.caption(
     "NISR 2026 Big Data Hackathon | Track 1: Agricultural Productivity | Team"
-    " Submission"
+    " Menace 2.0"
 )
